@@ -1,0 +1,81 @@
+province,regency,lon,lat,area_km2,neighbours
+Maluku Utara,Halmahera Selatan,127.70509793367424,-0.8234605297160628,8191.4064519842,Halmahera Tengah;Kota Tidore Kepulauan
+Maluku Utara,Halmahera Tengah,128.28227038403756,0.40270915052473244,2275.02871235807,Halmahera Selatan;Kota Tidore Kepulauan;Halmahera Timur
+Maluku Utara,Kepulauan Sula,125.8390588973989,-1.9632932329296895,1795.7729416046277,Pulau Taliabu
+Maluku Utara,Kota Tidore Kepulauan,127.6736997378811,0.48523419913762195,1691.4405779386839,Halmahera Selatan;Halmahera Tengah;Halmahera Barat;Halmahera Timur
+Maluku Utara,Pulau Taliabu,124.74064581329598,-1.8188752616453099,3003.8296689523,Kepulauan Sula
+Sulawesi Selatan,Bantaeng,119.98686890836962,-5.488084345781594,401.59766123024536,Bulukumba;Gowa;Jeneponto;Sinjai
+Sulawesi Selatan,Barru,119.69421988690388,-4.441759713787806,1194.59544743134,Bone;Kota Parepare;Maros;Pangkajene Dan Kepulauan;Sidenreng Rappang;Soppeng
+Sulawesi Selatan,Bone,120.12965633776963,-4.694888601422551,4619.154466654576,Barru;Gowa;Maros;Pangkajene Dan Kepulauan;Sinjai;Soppeng;Wajo
+Sulawesi Selatan,Bulukumba,120.23604531487503,-5.432381915027857,1171.0760596319285,Bantaeng;Sinjai
+Sulawesi Selatan,Enrekang,119.8719549215868,-3.5037793639504824,1834.3699518931105,Luwu;Pinrang;Sidenreng Rappang;Tana Toraja
+Sulawesi Selatan,Gowa,119.71855951668499,-5.3093249170337105,1811.0688074213117,Bantaeng;Bone;Jeneponto;Kota Makassar;Maros;Sinjai;Takalar
+Sulawesi Selatan,Jeneponto,119.69830645086068,-5.567496184242523,800.1095484914752,Bantaeng;Gowa;Takalar
+Sulawesi Selatan,Kepulauan Selayar,120.71457150555696,-6.561362904756521,1178.5183014955644,
+Sulawesi Selatan,Kota Makassar,119.46116095015148,-5.1335983072959745,184.22676974138125,Gowa;Maros;Takalar
+Sulawesi Selatan,Kota Palopo,120.1479541587893,-2.9804413081786247,281.9416070223742,Luwu;Toraja Utara
+Sulawesi Selatan,Kota Parepare,119.66162277067643,-4.029250096076451,88.38379106259515,Barru;Pinrang;Sidenreng Rappang
+Sulawesi Selatan,Luwu,120.18244611349135,-3.198508463007445,2911.0857485121255,Enrekang;Kota Palopo;Luwu Utara;Sidenreng Rappang;Tana Toraja;Toraja Utara;Wajo
+Sulawesi Selatan,Luwu Timur,121.13840571447973,-2.5506615793844096,6739.304338702603,Luwu Utara;Morowali;Morowali Utara;Poso;Kolaka Utara;Konawe
+Sulawesi Selatan,Luwu Utara,120.1607146926023,-2.3950150919151407,7602.681268502279,Luwu;Luwu Timur;Toraja Utara;Poso;Sigi
+Sulawesi Selatan,Maros,119.7248818340412,-5.000683656998081,1447.6759258297998,Barru;Bone;Gowa;Kota Makassar;Pangkajene Dan Kepulauan
+Sulawesi Selatan,Pangkajene Dan Kepulauan,119.47913514428618,-4.939420929214491,884.9736298694494,Barru;Bone;Maros
+Sulawesi Selatan,Pinrang,119.59985728825816,-3.62239550925902,1917.6006046088603,Enrekang;Kota Parepare;Sidenreng Rappang;Tana Toraja
+Sulawesi Selatan,Sidenreng Rappang,119.97148630682968,-3.8074183602646556,1990.2843626051367,Barru;Enrekang;Kota Parepare;Luwu;Pinrang;Soppeng;Wajo
+Sulawesi Selatan,Sinjai,120.13575887551966,-5.209749981985447,873.7613482557497,Bantaeng;Bone;Bulukumba;Gowa
+Sulawesi Selatan,Soppeng,119.89210906610138,-4.339199518154758,1366.8571342642272,Barru;Bone;Sidenreng Rappang;Wajo
+Sulawesi Selatan,Takalar,119.47062422952106,-5.419781160427133,574.9475874194853,Gowa;Jeneponto;Kota Makassar
+Sulawesi Selatan,Tana Toraja,119.71250378870495,-3.108531885603795,2029.892614958487,Enrekang;Luwu;Pinrang;Toraja Utara
+Sulawesi Selatan,Toraja Utara,119.86874338849093,-2.8880532636064986,1244.723725152159,Kota Palopo;Luwu;Luwu Utara;Tana Toraja
+Sulawesi Selatan,Wajo,120.17101332968166,-4.006584754017322,2515.0291481937898,Bone;Luwu;Sidenreng Rappang;Soppeng
+Sulawesi Tengah,Banggai,122.58355086378954,-1.020839979954705,8358.440358144038,Morowali Utara;Tojo Una-Una
+Sulawesi Tengah,Banggai Kepulauan,123.14378493927589,-1.3722300870906208,2375.5813348138927,
+Sulawesi Tengah,Banggai Laut,123.53459764461428,-1.7888544511314723,686.927993723814,
+Sulawesi Tengah,Donggala,119.83581335140497,-0.3955947477040731,4927.32294339607,Kota Palu;Parigi Moutong;Sigi;Toli-Toli
+Sulawesi Tengah,Kota Palu,119.91004350801943,-0.8295712631070554,391.1487881796642,Donggala;Parigi Moutong;Sigi
+Sulawesi Tengah,Morowali,121.91342731351565,-2.6937822042591586,4154.359654580634,Luwu Timur;Morowali Utara;Konawe;Konawe Utara
+Sulawesi Tengah,Morowali Utara,121.38502702652096,-1.8145199029900585,8989.841709038692,Luwu Timur;Banggai;Morowali;Poso;Tojo Una-Una
+Sulawesi Tengah,Parigi Moutong,120.4516128670786,0.017123188173712122,5806.463142812218,Donggala;Kota Palu;Poso;Sigi;Buol;Toli-Toli
+Sulawesi Tengah,Poso,120.52105088368334,-1.6808570282222393,7345.541567472657,Luwu Timur;Luwu Utara;Morowali Utara;Parigi Moutong;Sigi;Tojo Una-Una
+Sulawesi Tengah,Sigi,119.97049368625932,-1.408305716599352,5454.287765646322,Luwu Utara;Donggala;Kota Palu;Parigi Moutong;Poso
+Sulawesi Tengah,Tojo Una-Una,121.57611485923725,-1.112405890432249,5470.168161161301,Banggai;Morowali Utara;Poso
+Sulawesi Tenggara,Bombana,121.8512370697966,-4.797793650877654,3348.1702844324873,Buton Tengah;Kolaka;Kolaka Timur;Konawe Selatan
+Sulawesi Tenggara,Buton,122.92452736117173,-5.312782891664152,1660.5710231022924,Buton Selatan;Buton Utara;Kota Baubau;Muna
+Sulawesi Tenggara,Buton Selatan,122.67728698807072,-5.605790281383377,542.1495428035572,Buton;Kota Baubau
+Sulawesi Tenggara,Buton Tengah,122.39902126413936,-5.316905621804558,849.4555249533286,Bombana;Kota Baubau;Muna
+Sulawesi Tenggara,Buton Utara,123.01743904507404,-4.695568135580079,1671.6512275024158,Buton;Muna
+Sulawesi Tenggara,Kolaka,121.52933158122372,-4.074875002813856,3090.505389968416,Bombana;Kolaka Timur;Kolaka Utara
+Sulawesi Tenggara,Kolaka Timur,121.61201587602065,-3.7952350350218667,3735.921155258651,Bombana;Kolaka;Kolaka Utara;Konawe;Konawe Selatan;Konawe Utara
+Sulawesi Tenggara,Kolaka Utara,121.1519786236752,-3.2452975898900625,3265.055175787325,Luwu Timur;Kolaka;Kolaka Timur;Konawe;Konawe Utara
+Sulawesi Tenggara,Konawe,121.88589086386861,-3.525169077437535,5092.0134677651895,Luwu Timur;Morowali;Kolaka Timur;Kolaka Utara;Konawe Selatan;Konawe Utara;Kota Kendari
+Sulawesi Tenggara,Konawe Kepulauan,123.09505444813651,-4.114414672534457,715.226411310014,
+Sulawesi Tenggara,Konawe Selatan,122.42084120001238,-4.2627204048540195,4269.163225335515,Bombana;Kolaka Timur;Konawe;Kota Kendari
+Sulawesi Tenggara,Konawe Utara,121.99700262685073,-3.385319037565649,4701.908007585333,Morowali;Kolaka Timur;Kolaka Utara;Konawe
+Sulawesi Tenggara,Kota Baubau,122.67534515922029,-5.429874853464663,291.95514855300564,Buton;Buton Selatan;Buton Tengah
+Sulawesi Tenggara,Kota Kendari,122.53257292802543,-4.000565103580025,271.17594034171356,Konawe;Konawe Selatan
+Sulawesi Tenggara,Muna,122.63854081773754,-4.939534083556698,1950.5212592568644,Buton;Buton Tengah;Buton Utara;Muna Barat
+Sulawesi Tenggara,Muna Barat,122.49318787321464,-4.817472598911484,817.8185570365052,Muna
+Sulawesi Tenggara,Wakatobi,123.78474286458993,-5.570660311413544,465.22068705320794,
+Maluku Utara,Halmahera Barat,127.58960349566755,1.36406694930606,2185.563073644496,Kota Tidore Kepulauan;Halmahera Timur;Halmahera Utara
+Maluku Utara,Halmahera Timur,128.30850896917926,1.0311252345790687,6496.301392151288,Halmahera Tengah;Kota Tidore Kepulauan;Halmahera Barat;Halmahera Utara
+Maluku Utara,Halmahera Utara,127.8310166557632,1.5422665652751497,3493.995943678572,Halmahera Barat;Halmahera Timur
+Maluku Utara,Kota Ternate,127.17261886937654,0.8388359326105492,162.7141428952828,
+Maluku Utara,Pulau Morotai,128.4483525749756,2.3165637339555105,2353.4229192428543,
+Sulawesi Tengah,Buol,121.37262672573982,0.977958361345343,3881.2720823155596,Parigi Moutong;Toli-Toli
+Sulawesi Tengah,Toli-Toli,120.71894039176848,0.9260765195396194,3605.4024868796128,Donggala;Parigi Moutong;Buol
+Sulawesi Utara,Bolaang Mongondow,124.04031412174356,0.707943006962742,3252.890685035118,Bolaang Mongondow Selatan;Bolaang Mongondow Timur;Bolaang Mongondow Utara;Kota Kotamobagu;Minahasa Selatan
+Sulawesi Utara,Bolaang Mongondow Selatan,123.9328224714801,0.4442322206909384,1808.686538498776,Bolaang Mongondow;Bolaang Mongondow Timur;Bolaang Mongondow Utara
+Sulawesi Utara,Bolaang Mongondow Timur,124.5122284702629,0.7193852415506822,882.176623327172,Bolaang Mongondow;Bolaang Mongondow Selatan;Danau;Kota Kotamobagu;Minahasa Selatan;Minahasa Tenggara
+Sulawesi Utara,Bolaang Mongondow Utara,123.48101155006661,0.7680002826096934,1682.8825983507477,Bolaang Mongondow;Bolaang Mongondow Selatan
+Sulawesi Utara,Danau,124.84579825563135,1.1719945927859523,53.92678096890234,Bolaang Mongondow Timur;Minahasa;Minahasa Selatan
+Sulawesi Utara,Kepulauan Sangihe,125.54131446646603,3.5506772485369225,602.4106480330123,
+Sulawesi Utara,Kepulauan Talaud,126.78161311953822,4.225578742297658,1017.8324150357911,
+Sulawesi Utara,Kota Bitung,125.1613427714962,1.4847123928349784,312.58183493576246,Minahasa Utara
+Sulawesi Utara,Kota Kotamobagu,124.31924071263447,0.7107731938562958,106.55165461303554,Bolaang Mongondow;Bolaang Mongondow Timur
+Sulawesi Utara,Kota Manado,124.84840891237045,1.52486787101143,161.3647159902724,Minahasa;Minahasa Utara
+Sulawesi Utara,Kota Tomohon,124.81489895043806,1.324127063955435,150.54386693591672,Minahasa
+Sulawesi Utara,Minahasa,124.85415622451941,1.2547674883028916,1116.1694061676124,Danau;Kota Manado;Kota Tomohon;Minahasa Selatan;Minahasa Tenggara;Minahasa Utara
+Sulawesi Utara,Minahasa Selatan,124.52102215116963,1.084477933275487,1492.2660170793451,Bolaang Mongondow;Bolaang Mongondow Timur;Danau;Minahasa;Minahasa Tenggara
+Sulawesi Utara,Minahasa Tenggara,124.72175245449952,1.0103006435704291,706.8537433144695,Bolaang Mongondow Timur;Minahasa;Minahasa Selatan
+Sulawesi Utara,Minahasa Utara,125.00805637137915,1.5491626021151546,1019.7335706339379,Kota Bitung;Kota Manado;Minahasa
+Sulawesi Utara,Siau Tagulandang Biaro,125.39701397396564,2.5397834380503683,220.99371193982682,

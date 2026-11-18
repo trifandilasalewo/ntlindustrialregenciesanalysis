@@ -1,0 +1,1321 @@
+fid,host,facility,spec,zone,year,sol,sol_ge10,n_lit,n_px
+NE1,Morowali,"IMIP, Bahodopi",c3_r20,core,2015,816.726177,600.9616352,108.7215686,116.6705882
+NE1,Morowali,"IMIP, Bahodopi",c3_r20,ring,2015,68.52652317,0,76.87843137,2922.407843
+NE1,Morowali,"IMIP, Bahodopi",c3_r20,rest_of_host,2015,236.8493124,0,243.5098039,16333.67843
+NE1,Morowali,"IMIP, Bahodopi",c5_r20,core,2015,862.6009838,600.9616352,155.9333333,272.9254902
+NE1,Morowali,"IMIP, Bahodopi",c5_r20,ring,2015,22.69703835,0,29.68627451,2766.101961
+NE1,Morowali,"IMIP, Bahodopi",c5_r20,rest_of_host,2015,236.8493124,0,243.5098039,16333.67843
+NE1,Morowali,"IMIP, Bahodopi",c10_r20,core,2015,882.5475945,600.9616352,180.9882353,785.1568627
+NE1,Morowali,"IMIP, Bahodopi",c10_r20,ring,2015,2.75649887,0,4.647058824,2253.823529
+NE1,Morowali,"IMIP, Bahodopi",c10_r20,rest_of_host,2015,236.8493124,0,243.5098039,16333.67843
+NE1,Morowali,"IMIP, Bahodopi",c5_r30,core,2015,862.6009838,600.9616352,155.9333333,272.9254902
+NE1,Morowali,"IMIP, Bahodopi",c5_r30,ring,2015,70.37833574,0,99.85490196,5252.176471
+NE1,Morowali,"IMIP, Bahodopi",c5_r30,rest_of_host,2015,189.1778542,0,173.3568627,13847.59216
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c3_r20,core,2015,5.012737376,0,7.454901961,68.95294118
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c3_r20,ring,2015,5.025419156,0,11.9254902,3270.819608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c3_r20,rest_of_host,2015,44.69320139,0,83.68235294,7256.619608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r20,core,2015,8.593625104,0,13.75294118,183.027451
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r20,ring,2015,1.435890513,0,5.62745098,3156.67451
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r20,rest_of_host,2015,44.69320139,0,83.68235294,7256.619608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c10_r20,core,2015,9.23357866,0,16.38039216,773.8196078
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c10_r20,ring,2015,0.795936957,0,3,2565.823529
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c10_r20,rest_of_host,2015,44.69320139,0,83.68235294,7256.619608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r30,core,2015,8.593625104,0,13.75294118,183.027451
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r30,ring,2015,29.96202497,0,54.48627451,5372.094118
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r30,rest_of_host,2015,16.16706693,0,34.82352941,5041.321569
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c3_r20,core,2015,9.655728274,0,14.45882353,97.87843137
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c3_r20,ring,2015,53.84397784,0,44.15686275,2720.627451
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c3_r20,rest_of_host,2015,173.570007,0,263.827451,35337.2902
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r20,core,2015,49.24706202,0,33.56078431,247.4156863
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r20,ring,2015,14.2526441,0,25.05490196,2571.047059
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r20,rest_of_host,2015,173.570007,0,263.827451,35337.2902
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c10_r20,core,2015,51.01221118,0,41.10980392,904.1411765
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c10_r20,ring,2015,12.48606746,0,17.49803922,1914.25098
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c10_r20,rest_of_host,2015,173.570007,0,263.827451,35337.2902
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r30,core,2015,49.24706202,0,33.56078431,247.4156863
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r30,ring,2015,14.2526441,0,25.05490196,4791.658824
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r30,rest_of_host,2015,173.570007,0,263.827451,33116.72549
+NE4,Konawe,"VDNI / OSS, Morosi",c3_r20,core,2015,22.94699653,0,29,130.7058824
+NE4,Konawe,"VDNI / OSS, Morosi",c3_r20,ring,2015,77.61674351,0,199.7921569,2215.427451
+NE4,Konawe,"VDNI / OSS, Morosi",c3_r20,rest_of_host,2015,596.3633338,0,733.454902,21418.58824
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r20,core,2015,23.17820136,0,29.72156863,361.2313725
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r20,ring,2015,77.38553869,0,199.0705882,1984.886275
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r20,rest_of_host,2015,596.3633338,0,733.454902,21418.58824
+NE4,Konawe,"VDNI / OSS, Morosi",c10_r20,core,2015,63.97124747,0,124.7960784,1067.639216
+NE4,Konawe,"VDNI / OSS, Morosi",c10_r20,ring,2015,36.58340443,0,103.9686275,1278.443137
+NE4,Konawe,"VDNI / OSS, Morosi",c10_r20,rest_of_host,2015,596.3633338,0,733.454902,21418.58824
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r30,core,2015,23.17820136,0,29.72156863,361.2313725
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r30,ring,2015,136.8444587,0,377.2392157,3570.062745
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r30,rest_of_host,2015,536.9000716,0,555.2823529,19833.38824
+NS1,Kolaka,Antam Pomalaa smelter,c3_r20,core,2015,499.618214,385.3539627,47.87843137,48.84705882
+NS1,Kolaka,Antam Pomalaa smelter,c3_r20,ring,2015,523.9097599,77.14481145,394.7647059,3371.184314
+NS1,Kolaka,Antam Pomalaa smelter,c3_r20,rest_of_host,2015,38.63045497,0,101.2980392,11011.99216
+NS1,Kolaka,Antam Pomalaa smelter,c5_r20,core,2015,552.4014689,385.3539627,107.5843137,150.8862745
+NS1,Kolaka,Antam Pomalaa smelter,c5_r20,ring,2015,471.1374121,77.14481145,335.0627451,3269.090196
+NS1,Kolaka,Antam Pomalaa smelter,c5_r20,rest_of_host,2015,38.63045497,0,101.2980392,11011.99216
+NS1,Kolaka,Antam Pomalaa smelter,c10_r20,core,2015,585.0263472,385.3539627,168.3137255,706.1490196
+NS1,Kolaka,Antam Pomalaa smelter,c10_r20,ring,2015,438.5215915,77.14481145,274.3333333,2713.772549
+NS1,Kolaka,Antam Pomalaa smelter,c10_r20,rest_of_host,2015,38.63045497,0,101.2980392,11011.99216
+NS1,Kolaka,Antam Pomalaa smelter,c5_r30,core,2015,552.4014689,385.3539627,107.5843137,150.8862745
+NS1,Kolaka,Antam Pomalaa smelter,c5_r30,ring,2015,494.6506975,77.14481145,385.2392157,6505.756863
+NS1,Kolaka,Antam Pomalaa smelter,c5_r30,rest_of_host,2015,15.117678,0,51.1254902,7775.4
+NS2,Luwu Timur,"PT Vale, Sorowako",c3_r20,core,2015,441.4821418,55.17402554,111.5490196,130.4941176
+NS2,Luwu Timur,"PT Vale, Sorowako",c3_r20,ring,2015,15678.97737,13931.71856,826.1058824,5074.098039
+NS2,Luwu Timur,"PT Vale, Sorowako",c3_r20,rest_of_host,2015,436.6179824,47.48155785,300.5411765,26220.6549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r20,core,2015,1066.291573,326.7627494,231.8745098,364.172549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r20,ring,2015,15053.50494,13659.49875,705.7647059,4840.341176
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r20,rest_of_host,2015,436.6179824,47.48155785,300.5411765,26220.6549
+NS2,Luwu Timur,"PT Vale, Sorowako",c10_r20,core,2015,15397.9168,13986.89258,538.7686275,1461.776471
+NS2,Luwu Timur,"PT Vale, Sorowako",c10_r20,ring,2015,722.3260641,0,398.8823529,3742.654902
+NS2,Luwu Timur,"PT Vale, Sorowako",c10_r20,rest_of_host,2015,436.6179824,47.48155785,300.5411765,26220.6549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r30,core,2015,1066.291573,326.7627494,231.8745098,364.172549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r30,ring,2015,15182.63805,13659.49875,817.0941176,9586.568627
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r30,rest_of_host,2015,307.431244,47.48155785,189.1803922,21474.22353
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c3_r20,core,2015,0.934741044,0,4.952941176,64.1254902
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c3_r20,ring,2015,115.1596085,0,136.5843137,3244.984314
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c3_r20,rest_of_host,2015,64.72005719,0,168.6627451,26957.23137
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r20,core,2015,18.40729209,0,36.9254902,128.3215686
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r20,ring,2015,97.68845882,0,104.6156863,3180.792157
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r20,rest_of_host,2015,64.72005719,0,168.6627451,26957.23137
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c10_r20,core,2015,52.59287676,0,87.15686275,528.1176471
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c10_r20,ring,2015,63.50633837,0,54.39215686,2780.909804
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c10_r20,rest_of_host,2015,64.72005719,0,168.6627451,26957.23137
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r30,core,2015,18.40729209,0,36.9254902,128.3215686
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r30,ring,2015,98.66875975,0,110.6352941,8532.345098
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r30,rest_of_host,2015,63.73825384,0,162.6352941,21605.52941
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c3_r20,core,2015,0,0,0,117.0901961
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c3_r20,ring,2015,77.95499166,0,57.50980392,3509.541176
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c3_r20,rest_of_host,2015,14.50760326,0,23,38271.27843
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r20,core,2015,0,0,0,283.3137255
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r20,ring,2015,77.95499166,0,57.50980392,3343.278431
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r20,rest_of_host,2015,14.50760326,0,23,38271.27843
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c10_r20,core,2015,0.35355711,0,1,941.1686275
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c10_r20,ring,2015,77.60143455,0,56.50980392,2685.337255
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c10_r20,rest_of_host,2015,14.50760326,0,23,38271.27843
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r30,core,2015,0,0,0,283.3137255
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r30,ring,2015,92.46259491,0,80.50980392,8410.729412
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r30,rest_of_host,2015,0,0,0,33203.57647
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c3_r20,core,2015,31.07389005,0,47.74509804,113.6823529
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c3_r20,ring,2015,327.6316238,38.91277709,356.0235294,1533.878431
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c3_r20,rest_of_host,2015,20.12788508,0,44.89803922,231.3607843
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r20,core,2015,58.99255623,0,92.18039216,260.9764706
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r20,ring,2015,299.7184556,38.91277709,311.5921569,1386.564706
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r20,rest_of_host,2015,20.12788508,0,44.89803922,231.3607843
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c10_r20,core,2015,109.6458646,0,173.1803922,632.8784314
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c10_r20,ring,2015,249.0564825,38.91277709,230.5803922,1014.639216
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c10_r20,rest_of_host,2015,20.12788508,0,44.89803922,231.3607843
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r30,core,2015,58.99255623,0,92.18039216,260.9764706
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r30,ring,2015,319.8573519,38.91277709,356.5215686,1618.07451
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r30,rest_of_host,2015,0,0,0,0
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c3_r20,core,2015,0,0,0,119.8745098
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c3_r20,ring,2015,53.3084921,0,58.94901961,3168.933333
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c3_r20,rest_of_host,2015,113.5557256,0,109,10292.95294
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r20,core,2015,0,0,0,288.3019608
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r20,ring,2015,53.3084921,0,58.94901961,3000.47451
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r20,rest_of_host,2015,113.5557256,0,109,10292.95294
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c10_r20,core,2015,37.36336754,0,29.94901961,1037.839216
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c10_r20,ring,2015,15.94512457,0,29,2250.85098
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c10_r20,rest_of_host,2015,113.5557256,0,109,10292.95294
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r30,core,2015,0,0,0,288.3019608
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r30,ring,2015,78.39929215,0,89.28627451,6314.988235
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r30,rest_of_host,2015,88.45809723,0,78.65490196,6978.415686
+NE1,Morowali,"IMIP, Bahodopi",c3_r20,core,2016,1529.504343,1344.170256,115.6352941,116.6705882
+NE1,Morowali,"IMIP, Bahodopi",c3_r20,ring,2016,182.9311954,26.28611684,127.7137255,2922.407843
+NE1,Morowali,"IMIP, Bahodopi",c3_r20,rest_of_host,2016,308.2935991,0,307.8156863,16333.67843
+NE1,Morowali,"IMIP, Bahodopi",c5_r20,core,2016,1690.360771,1370.613979,198.6431373,272.9254902
+NE1,Morowali,"IMIP, Bahodopi",c5_r20,ring,2016,22.28175714,0,44.73333333,2766.101961
+NE1,Morowali,"IMIP, Bahodopi",c5_r20,rest_of_host,2016,308.2935991,0,307.8156863,16333.67843
+NE1,Morowali,"IMIP, Bahodopi",c10_r20,core,2016,1706.358025,1370.613979,222.3411765,785.1568627
+NE1,Morowali,"IMIP, Bahodopi",c10_r20,ring,2016,6.297293677,0,21.05882353,2253.823529
+NE1,Morowali,"IMIP, Bahodopi",c10_r20,rest_of_host,2016,308.2935991,0,307.8156863,16333.67843
+NE1,Morowali,"IMIP, Bahodopi",c5_r30,core,2016,1690.360771,1370.613979,198.6431373,272.9254902
+NE1,Morowali,"IMIP, Bahodopi",c5_r30,ring,2016,90.39964832,0,134.9568627,5252.176471
+NE1,Morowali,"IMIP, Bahodopi",c5_r30,rest_of_host,2016,240.184991,0,217.6156863,13847.59216
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c3_r20,core,2016,4.08620621,0,7.454901961,68.95294118
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c3_r20,ring,2016,3.25613969,0,7.298039216,3270.819608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c3_r20,rest_of_host,2016,146.6213663,85.6157597,110.4941176,7256.619608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r20,core,2016,7.222217103,0,13.75294118,183.027451
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r20,ring,2016,0.112639345,0,1,3156.67451
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r20,rest_of_host,2016,146.6213663,85.6157597,110.4941176,7256.619608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c10_r20,core,2016,7.334856449,0,14.75294118,773.8196078
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c10_r20,ring,2016,0,0,0,2565.823529
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c10_r20,rest_of_host,2016,146.6213663,85.6157597,110.4941176,7256.619608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r30,core,2016,7.222217103,0,13.75294118,183.027451
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r30,ring,2016,24.36613587,0,37.85882353,5372.094118
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r30,rest_of_host,2016,122.3678698,85.6157597,73.63529412,5041.321569
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c3_r20,core,2016,34.56704102,2.834613905,48.25882353,97.87843137
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c3_r20,ring,2016,158.9806339,58.29794347,79.03137255,2720.627451
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c3_r20,rest_of_host,2016,194.8469626,0,315.7254902,35337.2902
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r20,core,2016,183.1378716,61.13255737,97.02745098,247.4156863
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r20,ring,2016,10.40883358,0,30.25882353,2571.047059
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r20,rest_of_host,2016,194.8469626,0,315.7254902,35337.2902
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c10_r20,core,2016,191.9208673,61.13255737,122.7058824,904.1411765
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c10_r20,ring,2016,1.628806047,0,4.580392157,1914.25098
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c10_r20,rest_of_host,2016,194.8469626,0,315.7254902,35337.2902
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r30,core,2016,183.1378716,61.13255737,97.02745098,247.4156863
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r30,ring,2016,10.40883358,0,30.25882353,4791.658824
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r30,rest_of_host,2016,194.8469626,0,315.7254902,33116.72549
+NE4,Konawe,"VDNI / OSS, Morosi",c3_r20,core,2016,24.43911984,0,32.70980392,130.7058824
+NE4,Konawe,"VDNI / OSS, Morosi",c3_r20,ring,2016,90.97225941,0,255.5490196,2215.427451
+NE4,Konawe,"VDNI / OSS, Morosi",c3_r20,rest_of_host,2016,592.5876391,0,830.1843137,21418.58824
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r20,core,2016,30.3614202,0,54.94509804,361.2313725
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r20,ring,2016,85.04847425,0,233.3058824,1984.886275
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r20,rest_of_host,2016,592.5876391,0,830.1843137,21418.58824
+NE4,Konawe,"VDNI / OSS, Morosi",c10_r20,core,2016,73.00775729,0,157.7529412,1067.639216
+NE4,Konawe,"VDNI / OSS, Morosi",c10_r20,ring,2016,42.39620816,0,130.4823529,1278.443137
+NE4,Konawe,"VDNI / OSS, Morosi",c10_r20,rest_of_host,2016,592.5876391,0,830.1843137,21418.58824
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r30,core,2016,30.3614202,0,54.94509804,361.2313725
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r30,ring,2016,165.5735018,0,480.6431373,3570.062745
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r30,rest_of_host,2016,512.0619043,0,582.854902,19833.38824
+NS1,Kolaka,Antam Pomalaa smelter,c3_r20,core,2016,542.6229422,415.8963135,47.87843137,48.84705882
+NS1,Kolaka,Antam Pomalaa smelter,c3_r20,ring,2016,560.8540867,165.3365271,422.2117647,3371.184314
+NS1,Kolaka,Antam Pomalaa smelter,c3_r20,rest_of_host,2016,51.42795481,0,174.8980392,11011.99216
+NS1,Kolaka,Antam Pomalaa smelter,c5_r20,core,2016,581.9018215,415.8963135,98.13333333,150.8862745
+NS1,Kolaka,Antam Pomalaa smelter,c5_r20,ring,2016,521.5879154,165.3365271,371.972549,3269.090196
+NS1,Kolaka,Antam Pomalaa smelter,c5_r20,rest_of_host,2016,51.42795481,0,174.8980392,11011.99216
+NS1,Kolaka,Antam Pomalaa smelter,c10_r20,core,2016,614.0135298,415.8963135,181.4039216,706.1490196
+NS1,Kolaka,Antam Pomalaa smelter,c10_r20,ring,2016,489.4747838,165.3365271,288.6823529,2713.772549
+NS1,Kolaka,Antam Pomalaa smelter,c10_r20,rest_of_host,2016,51.42795481,0,174.8980392,11011.99216
+NS1,Kolaka,Antam Pomalaa smelter,c5_r30,core,2016,581.9018215,415.8963135,98.13333333,150.8862745
+NS1,Kolaka,Antam Pomalaa smelter,c5_r30,ring,2016,542.8423617,165.3365271,434.8509804,6505.756863
+NS1,Kolaka,Antam Pomalaa smelter,c5_r30,rest_of_host,2016,30.17445335,0,112.0235294,7775.4
+NS2,Luwu Timur,"PT Vale, Sorowako",c3_r20,core,2016,486.7203536,130.7619514,105.5529412,130.4941176
+NS2,Luwu Timur,"PT Vale, Sorowako",c3_r20,ring,2016,15872.92497,13897.03537,874.6431373,5074.098039
+NS2,Luwu Timur,"PT Vale, Sorowako",c3_r20,rest_of_host,2016,460.8506495,63.27903175,356.5882353,26220.6549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r20,core,2016,1034.344645,350.1500742,223.9490196,364.172549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r20,ring,2016,15324.94896,13677.31653,756.2196078,4840.341176
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r20,rest_of_host,2016,460.8506495,63.27903175,356.5882353,26220.6549
+NS2,Luwu Timur,"PT Vale, Sorowako",c10_r20,core,2016,15374.65441,13909.23532,560.8784314,1461.776471
+NS2,Luwu Timur,"PT Vale, Sorowako",c10_r20,ring,2016,984.5855661,118.2697536,419.3137255,3742.654902
+NS2,Luwu Timur,"PT Vale, Sorowako",c10_r20,rest_of_host,2016,460.8506495,63.27903175,356.5882353,26220.6549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r30,core,2016,1034.344645,350.1500742,223.9490196,364.172549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r30,ring,2016,15453.50691,13677.31653,879.3607843,9586.568627
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r30,rest_of_host,2016,332.2396635,63.27903175,233.4117647,21474.22353
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c3_r20,core,2016,0,0,0,64.1254902
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c3_r20,ring,2016,106.0301881,0,111.3411765,3244.984314
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c3_r20,rest_of_host,2016,67.31064265,0,208.3372549,26957.23137
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r20,core,2016,8.189130452,0,14.72941176,128.3215686
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r20,ring,2016,97.83815954,0,96.60784314,3180.792157
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r20,rest_of_host,2016,67.31064265,0,208.3372549,26957.23137
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c10_r20,core,2016,34.28607,0,54.35294118,528.1176471
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c10_r20,ring,2016,71.74411806,0,56.98823529,2780.909804
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c10_r20,rest_of_host,2016,67.31064265,0,208.3372549,26957.23137
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r30,core,2016,8.189130452,0,14.72941176,128.3215686
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r30,ring,2016,99.41916219,0,103.4627451,8532.345098
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r30,rest_of_host,2016,65.72607319,0,201.4666667,21605.52941
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c3_r20,core,2016,0,0,0,117.0901961
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c3_r20,ring,2016,97.86077396,0,76.70980392,3509.541176
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c3_r20,rest_of_host,2016,45.52221452,0,69,38271.27843
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r20,core,2016,0,0,0,283.3137255
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r20,ring,2016,97.86077396,0,76.70980392,3343.278431
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r20,rest_of_host,2016,45.52221452,0,69,38271.27843
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c10_r20,core,2016,0,0,0,941.1686275
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c10_r20,ring,2016,97.86077396,0,76.70980392,2685.337255
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c10_r20,rest_of_host,2016,45.52221452,0,69,38271.27843
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r30,core,2016,0,0,0,283.3137255
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r30,ring,2016,107.1350744,0,93.70980392,8410.729412
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r30,rest_of_host,2016,36.24791412,0,52,33203.57647
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c3_r20,core,2016,24.44139005,0,35.26666667,113.6823529
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c3_r20,ring,2016,364.5423535,46.72578975,430.6862745,1533.878431
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c3_r20,rest_of_host,2016,19.59430593,0,51.43529412,231.3607843
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r20,core,2016,56.60777615,0,78.21568627,260.9764706
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r20,ring,2016,332.3826211,46.72578975,387.7490196,1386.564706
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r20,rest_of_host,2016,19.59430593,0,51.43529412,231.3607843
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c10_r20,core,2016,115.1062664,0,186.0784314,632.8784314
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c10_r20,ring,2016,273.8728334,46.72578975,279.8666667,1014.639216
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c10_r20,rest_of_host,2016,19.59430593,0,51.43529412,231.3607843
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r30,core,2016,56.60777615,0,78.21568627,260.9764706
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r30,ring,2016,351.9940233,46.72578975,439.2392157,1618.07451
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r30,rest_of_host,2016,0,0,0,0
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c3_r20,core,2016,0,0,0,119.8745098
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c3_r20,ring,2016,55.25699325,0,74.17254902,3168.933333
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c3_r20,rest_of_host,2016,137.0986359,0,138.1803922,10292.95294
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r20,core,2016,1.489857846,0,2.266666667,288.3019608
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r20,ring,2016,53.76518408,0,71.90196078,3000.47451
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r20,rest_of_host,2016,137.0986359,0,138.1803922,10292.95294
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c10_r20,core,2016,37.92455245,0,43.17254902,1037.839216
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c10_r20,ring,2016,17.33244079,0,31,2250.85098
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c10_r20,rest_of_host,2016,137.0986359,0,138.1803922,10292.95294
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r30,core,2016,1.489857846,0,2.266666667,288.3019608
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r30,ring,2016,80.39342806,0,109.2392157,6314.988235
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r30,rest_of_host,2016,110.4629405,0,100.8352941,6978.415686
+NE1,Morowali,"IMIP, Bahodopi",c3_r20,core,2017,2258.073502,2026.72791,116.6705882,116.6705882
+NE1,Morowali,"IMIP, Bahodopi",c3_r20,ring,2017,747.4214281,373.5535346,242.972549,2922.407843
+NE1,Morowali,"IMIP, Bahodopi",c3_r20,rest_of_host,2017,277.8405775,0,257.2666667,16333.67843
+NE1,Morowali,"IMIP, Bahodopi",c5_r20,core,2017,2873.740119,2400.838327,246.6823529,272.9254902
+NE1,Morowali,"IMIP, Bahodopi",c5_r20,ring,2017,132.3342168,0,112.9647059,2766.101961
+NE1,Morowali,"IMIP, Bahodopi",c5_r20,rest_of_host,2017,277.8405775,0,257.2666667,16333.67843
+NE1,Morowali,"IMIP, Bahodopi",c10_r20,core,2017,2973.268874,2400.838327,325.0470588,785.1568627
+NE1,Morowali,"IMIP, Bahodopi",c10_r20,ring,2017,32.87464344,0,34.64705882,2253.823529
+NE1,Morowali,"IMIP, Bahodopi",c10_r20,rest_of_host,2017,277.8405775,0,257.2666667,16333.67843
+NE1,Morowali,"IMIP, Bahodopi",c5_r30,core,2017,2873.740119,2400.838327,246.6823529,272.9254902
+NE1,Morowali,"IMIP, Bahodopi",c5_r30,ring,2017,172.3223395,0,168.0039216,5252.176471
+NE1,Morowali,"IMIP, Bahodopi",c5_r30,rest_of_host,2017,237.8695921,0,202.2509804,13847.59216
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c3_r20,core,2017,5.842953316,0,8.454901961,68.95294118
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c3_r20,ring,2017,7.691594629,0,14.37647059,3270.819608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c3_r20,rest_of_host,2017,174.9431462,43.39718116,127.7333333,7256.619608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r20,core,2017,9.900780816,0,14.75294118,183.027451
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r20,ring,2017,3.623872962,0,8.078431373,3156.67451
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r20,rest_of_host,2017,174.9431462,43.39718116,127.7333333,7256.619608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c10_r20,core,2017,12.39819273,0,19.83137255,773.8196078
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c10_r20,ring,2017,1.126461044,0,3,2565.823529
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c10_r20,rest_of_host,2017,174.9431462,43.39718116,127.7333333,7256.619608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r30,core,2017,9.900780816,0,14.75294118,183.027451
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r30,ring,2017,44.01522019,0,59.31764706,5372.094118
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r30,rest_of_host,2017,134.5517989,43.39718116,76.49411765,5041.321569
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c3_r20,core,2017,124.17007,16.32800956,81.23137255,97.87843137
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c3_r20,ring,2017,550.0160869,366.9125129,147.0784314,2720.627451
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c3_r20,rest_of_host,2017,284.5850097,0,348.0470588,35337.2902
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r20,core,2017,597.8376335,383.2405225,165.6156863,247.4156863
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r20,ring,2017,76.36014105,0,62.69019608,2571.047059
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r20,rest_of_host,2017,284.5850097,0,348.0470588,35337.2902
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c10_r20,core,2017,627.064893,383.2405225,201.5803922,904.1411765
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c10_r20,ring,2017,47.15028208,0,26.74117647,1914.25098
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c10_r20,rest_of_host,2017,284.5850097,0,348.0470588,35337.2902
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r30,core,2017,597.8376335,383.2405225,165.6156863,247.4156863
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r30,ring,2017,76.36014105,0,62.69019608,4791.658824
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r30,rest_of_host,2017,284.5850097,0,348.0470588,33116.72549
+NE4,Konawe,"VDNI / OSS, Morosi",c3_r20,core,2017,261.5075436,129.1959267,82.60784314,130.7058824
+NE4,Konawe,"VDNI / OSS, Morosi",c3_r20,ring,2017,180.6365008,0,306.5882353,2215.427451
+NE4,Konawe,"VDNI / OSS, Morosi",c3_r20,rest_of_host,2017,623.231745,0,725.4,21418.58824
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r20,core,2017,288.3448446,129.1959267,130.7843137,361.2313725
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r20,ring,2017,153.8075355,0,258.4235294,1984.886275
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r20,rest_of_host,2017,623.231745,0,725.4,21418.58824
+NE4,Konawe,"VDNI / OSS, Morosi",c10_r20,core,2017,364.2786437,129.1959267,253.3254902,1067.639216
+NE4,Konawe,"VDNI / OSS, Morosi",c10_r20,ring,2017,77.86415528,0,135.8666667,1278.443137
+NE4,Konawe,"VDNI / OSS, Morosi",c10_r20,rest_of_host,2017,623.231745,0,725.4,21418.58824
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r30,core,2017,288.3448446,129.1959267,130.7843137,361.2313725
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r30,ring,2017,256.429802,0,439.2627451,3570.062745
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r30,rest_of_host,2017,520.6035571,0,544.5568627,19833.38824
+NS1,Kolaka,Antam Pomalaa smelter,c3_r20,core,2017,536.9507282,400.3114563,47.87843137,48.84705882
+NS1,Kolaka,Antam Pomalaa smelter,c3_r20,ring,2017,602.7678424,86.39834253,449.3176471,3371.184314
+NS1,Kolaka,Antam Pomalaa smelter,c3_r20,rest_of_host,2017,108.2940938,0,230.7176471,11011.99216
+NS1,Kolaka,Antam Pomalaa smelter,c5_r20,core,2017,598.4213094,400.3114563,105.3176471,150.8862745
+NS1,Kolaka,Antam Pomalaa smelter,c5_r20,ring,2017,541.3130439,86.39834253,391.8901961,3269.090196
+NS1,Kolaka,Antam Pomalaa smelter,c5_r20,rest_of_host,2017,108.2940938,0,230.7176471,11011.99216
+NS1,Kolaka,Antam Pomalaa smelter,c10_r20,core,2017,648.9312079,400.3114563,191.9686275,706.1490196
+NS1,Kolaka,Antam Pomalaa smelter,c10_r20,ring,2017,490.7966746,86.39834253,305.2156863,2713.772549
+NS1,Kolaka,Antam Pomalaa smelter,c10_r20,rest_of_host,2017,108.2940938,0,230.7176471,11011.99216
+NS1,Kolaka,Antam Pomalaa smelter,c5_r30,core,2017,598.4213094,400.3114563,105.3176471,150.8862745
+NS1,Kolaka,Antam Pomalaa smelter,c5_r30,ring,2017,585.3511122,86.39834253,471.5333333,6505.756863
+NS1,Kolaka,Antam Pomalaa smelter,c5_r30,rest_of_host,2017,64.25506311,0,151.0705882,7775.4
+NS2,Luwu Timur,"PT Vale, Sorowako",c3_r20,core,2017,425.0663468,84.56450824,107.5529412,130.4941176
+NS2,Luwu Timur,"PT Vale, Sorowako",c3_r20,ring,2017,13099.30591,11225.70648,879.054902,5074.098039
+NS2,Luwu Timur,"PT Vale, Sorowako",c3_r20,rest_of_host,2017,427.7248536,74.63953876,278.1803922,26220.6549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r20,core,2017,825.010084,155.696391,233.4745098,364.172549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r20,ring,2017,12699.13933,11154.44217,753.1137255,4840.341176
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r20,rest_of_host,2017,427.7248536,74.63953876,278.1803922,26220.6549
+NS2,Luwu Timur,"PT Vale, Sorowako",c10_r20,core,2017,12628.45449,11260.57388,561.5137255,1461.776471
+NS2,Luwu Timur,"PT Vale, Sorowako",c10_r20,ring,2017,895.5468313,49.3948158,425.0862745,3742.654902
+NS2,Luwu Timur,"PT Vale, Sorowako",c10_r20,rest_of_host,2017,427.7248536,74.63953876,278.1803922,26220.6549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r30,core,2017,825.010084,155.696391,233.4745098,364.172549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r30,ring,2017,12820.1404,11154.44217,851.2901961,9586.568627
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r30,rest_of_host,2017,306.6764439,74.63953876,179.9803922,21474.22353
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c3_r20,core,2017,29.42133771,0,24.87843137,64.1254902
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c3_r20,ring,2017,199.821982,0,177.772549,3244.984314
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c3_r20,rest_of_host,2017,138.8583453,0,285.7803922,26957.23137
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r20,core,2017,80.92182629,0,64.20784314,128.3215686
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r20,ring,2017,148.3261597,0,138.4392157,3180.792157
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r20,rest_of_host,2017,138.8583453,0,285.7803922,26957.23137
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c10_r20,core,2017,117.767469,0,111.6901961,528.1176471
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c10_r20,ring,2017,111.499604,0,90.97647059,2780.909804
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c10_r20,rest_of_host,2017,138.8583453,0,285.7803922,26957.23137
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r30,core,2017,80.92182629,0,64.20784314,128.3215686
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r30,ring,2017,163.8461293,0,178.6470588,8532.345098
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r30,rest_of_host,2017,123.3321428,0,245.5568627,21605.52941
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c3_r20,core,2017,0,0,0,117.0901961
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c3_r20,ring,2017,96.95398897,0,79.30196078,3509.541176
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c3_r20,rest_of_host,2017,30.18691801,0,39,38271.27843
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r20,core,2017,0,0,0,283.3137255
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r20,ring,2017,96.95398897,0,79.30196078,3343.278431
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r20,rest_of_host,2017,30.18691801,0,39,38271.27843
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c10_r20,core,2017,0.965066441,0,2.745098039,941.1686275
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c10_r20,ring,2017,95.98892253,0,76.55686275,2685.337255
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c10_r20,rest_of_host,2017,30.18691801,0,39,38271.27843
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r30,core,2017,0,0,0,283.3137255
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r30,ring,2017,98.31414879,0,82.30196078,8410.729412
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r30,rest_of_host,2017,28.82675819,0,36,33203.57647
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c3_r20,core,2017,55.66368167,0,60.91372549,113.6823529
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c3_r20,ring,2017,509.8068056,45.20770085,464.8823529,1533.878431
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c3_r20,rest_of_host,2017,27.06458141,0,45.66666667,231.3607843
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r20,core,2017,111.7804692,0,107.2431373,260.9764706
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r20,ring,2017,453.6918844,45.20770085,418.5607843,1386.564706
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r20,rest_of_host,2017,27.06458141,0,45.66666667,231.3607843
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c10_r20,core,2017,199.2050564,0,209.1764706,632.8784314
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c10_r20,ring,2017,366.2557904,45.20770085,316.6078431,1014.639216
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c10_r20,rest_of_host,2017,27.06458141,0,45.66666667,231.3607843
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r30,core,2017,111.7804692,0,107.2431373,260.9764706
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r30,ring,2017,480.7731613,45.20770085,464.2588235,1618.07451
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r30,rest_of_host,2017,0,0,0,0
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c3_r20,core,2017,0,0,0,119.8745098
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c3_r20,ring,2017,66.36920281,0,64.34901961,3168.933333
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c3_r20,rest_of_host,2017,147.2550564,0,115,10292.95294
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r20,core,2017,0,0,0,288.3019608
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r20,ring,2017,66.36920281,0,64.34901961,3000.47451
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r20,rest_of_host,2017,147.2550564,0,115,10292.95294
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c10_r20,core,2017,52.64804592,0,46.34901961,1037.839216
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c10_r20,ring,2017,13.7211569,0,18,2250.85098
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c10_r20,rest_of_host,2017,147.2550564,0,115,10292.95294
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r30,core,2017,0,0,0,288.3019608
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r30,ring,2017,103.4173482,0,100.6862745,6314.988235
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r30,rest_of_host,2017,110.1965758,0,78.65490196,6978.415686
+NE1,Morowali,"IMIP, Bahodopi",c3_r20,core,2018,2329.350034,2075.211359,116.6705882,116.6705882
+NE1,Morowali,"IMIP, Bahodopi",c3_r20,ring,2018,945.4786253,387.673965,321.0156863,2922.407843
+NE1,Morowali,"IMIP, Bahodopi",c3_r20,rest_of_host,2018,416.4751615,0,324.3215686,16333.67843
+NE1,Morowali,"IMIP, Bahodopi",c5_r20,core,2018,3068.901038,2463.394292,255.2705882,272.9254902
+NE1,Morowali,"IMIP, Bahodopi",c5_r20,ring,2018,206.4902557,0,182.4078431,2766.101961
+NE1,Morowali,"IMIP, Bahodopi",c5_r20,rest_of_host,2018,416.4751615,0,324.3215686,16333.67843
+NE1,Morowali,"IMIP, Bahodopi",c10_r20,core,2018,3231.301611,2463.394292,386.8784314,785.1568627
+NE1,Morowali,"IMIP, Bahodopi",c10_r20,ring,2018,44.18930158,0,50.85882353,2253.823529
+NE1,Morowali,"IMIP, Bahodopi",c10_r20,rest_of_host,2018,416.4751615,0,324.3215686,16333.67843
+NE1,Morowali,"IMIP, Bahodopi",c5_r30,core,2018,3068.901038,2463.394292,255.2705882,272.9254902
+NE1,Morowali,"IMIP, Bahodopi",c5_r30,ring,2018,283.1069463,0,259.8980392,5252.176471
+NE1,Morowali,"IMIP, Bahodopi",c5_r30,rest_of_host,2018,339.8714301,0,246.8470588,13847.59216
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c3_r20,core,2018,13.26460965,0,7.454901961,68.95294118
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c3_r20,ring,2018,76.26362433,0,87.2745098,3270.819608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c3_r20,rest_of_host,2018,258.7143475,32.44203854,205.9333333,7256.619608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r20,core,2018,19.476479,0,13.75294118,183.027451
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r20,ring,2018,70.0378188,0,80.97647059,3156.67451
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r20,rest_of_host,2018,258.7143475,32.44203854,205.9333333,7256.619608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c10_r20,core,2018,29.60127081,0,29.98431373,773.8196078
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c10_r20,ring,2018,59.89701504,0,64.7372549,2565.823529
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c10_r20,rest_of_host,2018,258.7143475,32.44203854,205.9333333,7256.619608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r30,core,2018,19.476479,0,13.75294118,183.027451
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r30,ring,2018,120.1568076,0,136.6117647,5372.094118
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r30,rest_of_host,2018,208.5953586,32.44203854,150.2980392,5041.321569
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c3_r20,core,2018,170.7949149,33.86081346,85.72156863,97.87843137
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c3_r20,ring,2018,502.996667,276.9229379,175.1921569,2720.627451
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c3_r20,rest_of_host,2018,310.4767311,0,382.5882353,35337.2902
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r20,core,2018,553.1194628,297.9085822,166.9960784,247.4156863
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r20,ring,2018,120.6773612,12.87516919,93.90980392,2571.047059
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r20,rest_of_host,2018,310.4767311,0,382.5882353,35337.2902
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c10_r20,core,2018,601.0630992,297.9085822,223.9411765,904.1411765
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c10_r20,ring,2018,72.73639792,12.87516919,36.98431373,1914.25098
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c10_r20,rest_of_host,2018,310.4767311,0,382.5882353,35337.2902
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r30,core,2018,553.1194628,297.9085822,166.9960784,247.4156863
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r30,ring,2018,120.6773612,12.87516919,93.90980392,4791.658824
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r30,rest_of_host,2018,310.4767311,0,382.5882353,33116.72549
+NE4,Konawe,"VDNI / OSS, Morosi",c3_r20,core,2018,775.2509677,585.6771126,116.2823529,130.7058824
+NE4,Konawe,"VDNI / OSS, Morosi",c3_r20,ring,2018,363.8791813,0,435.2235294,2215.427451
+NE4,Konawe,"VDNI / OSS, Morosi",c3_r20,rest_of_host,2018,719.9909373,0,903.0039216,21418.58824
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r20,core,2018,894.3101179,585.6771126,228.1215686,361.2313725
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r20,ring,2018,244.8825789,0,323.427451,1984.886275
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r20,rest_of_host,2018,719.9909373,0,903.0039216,21418.58824
+NE4,Konawe,"VDNI / OSS, Morosi",c10_r20,core,2018,1007.495648,585.6771126,380.9921569,1067.639216
+NE4,Konawe,"VDNI / OSS, Morosi",c10_r20,ring,2018,131.6348852,0,170.5333333,1278.443137
+NE4,Konawe,"VDNI / OSS, Morosi",c10_r20,rest_of_host,2018,719.9909373,0,903.0039216,21418.58824
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r30,core,2018,894.3101179,585.6771126,228.1215686,361.2313725
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r30,ring,2018,407.2128407,0,596.972549,3570.062745
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r30,rest_of_host,2018,557.660268,0,629.4627451,19833.38824
+NS1,Kolaka,Antam Pomalaa smelter,c3_r20,core,2018,422.25002,287.9264955,47.87843137,48.84705882
+NS1,Kolaka,Antam Pomalaa smelter,c3_r20,ring,2018,740.6927508,167.5052208,466.1098039,3371.184314
+NS1,Kolaka,Antam Pomalaa smelter,c3_r20,rest_of_host,2018,127.9378175,0,251.4039216,11011.99216
+NS1,Kolaka,Antam Pomalaa smelter,c5_r20,core,2018,488.6214318,287.9264955,109.7176471,150.8862745
+NS1,Kolaka,Antam Pomalaa smelter,c5_r20,ring,2018,674.3308636,167.5052208,404.2705882,3269.090196
+NS1,Kolaka,Antam Pomalaa smelter,c5_r20,rest_of_host,2018,127.9378175,0,251.4039216,11011.99216
+NS1,Kolaka,Antam Pomalaa smelter,c10_r20,core,2018,543.8941157,287.9264955,194.7686275,706.1490196
+NS1,Kolaka,Antam Pomalaa smelter,c10_r20,ring,2018,619.064842,167.5052208,319.2156863,2713.772549
+NS1,Kolaka,Antam Pomalaa smelter,c10_r20,rest_of_host,2018,127.9378175,0,251.4039216,11011.99216
+NS1,Kolaka,Antam Pomalaa smelter,c5_r30,core,2018,488.6214318,287.9264955,109.7176471,150.8862745
+NS1,Kolaka,Antam Pomalaa smelter,c5_r30,ring,2018,719.16975,167.5052208,488.9921569,6505.756863
+NS1,Kolaka,Antam Pomalaa smelter,c5_r30,rest_of_host,2018,83.09656731,0,166.6745098,7775.4
+NS2,Luwu Timur,"PT Vale, Sorowako",c3_r20,core,2018,548.3179474,150.6422135,112.1803922,130.4941176
+NS2,Luwu Timur,"PT Vale, Sorowako",c3_r20,ring,2018,28383.61355,26065.21459,1071.890196,5074.098039
+NS2,Luwu Timur,"PT Vale, Sorowako",c3_r20,rest_of_host,2018,525.8597967,32.67443371,358.6196078,26220.6549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r20,core,2018,1438.857842,682.0592146,237.4745098,364.172549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r20,ring,2018,27492.18919,25532.97092,946.5803922,4840.341176
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r20,rest_of_host,2018,525.8597967,32.67443371,358.6196078,26220.6549
+NS2,Luwu Timur,"PT Vale, Sorowako",c10_r20,core,2018,27827.17013,26207.01733,625.2666667,1461.776471
+NS2,Luwu Timur,"PT Vale, Sorowako",c10_r20,ring,2018,1104.606981,8.83712635,558.7921569,3742.654902
+NS2,Luwu Timur,"PT Vale, Sorowako",c10_r20,rest_of_host,2018,525.8597967,32.67443371,358.6196078,26220.6549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r30,core,2018,1438.857842,682.0592146,237.4745098,364.172549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r30,ring,2018,27614.7673,25532.97092,1046.152941,9586.568627
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r30,rest_of_host,2018,403.2214321,32.67443371,259.0117647,21474.22353
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c3_r20,core,2018,51.49168097,0,45.79215686,64.1254902
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c3_r20,ring,2018,241.4735232,11.74710274,184.8117647,3244.984314
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c3_r20,rest_of_host,2018,172.649623,0,343.9882353,26957.23137
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r20,core,2018,138.5563757,11.74710274,87.94901961,128.3215686
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r20,ring,2018,154.4169204,0,142.6509804,3180.792157
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r20,rest_of_host,2018,172.649623,0,343.9882353,26957.23137
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c10_r20,core,2018,177.2656459,11.74710274,142.1568627,528.1176471
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c10_r20,ring,2018,115.7324164,0,88.4627451,2780.909804
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c10_r20,rest_of_host,2018,172.649623,0,343.9882353,26957.23137
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r30,core,2018,138.5563757,11.74710274,87.94901961,128.3215686
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r30,ring,2018,178.2142943,0,185.5803922,8532.345098
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r30,rest_of_host,2018,148.8436807,0,301.0313725,21605.52941
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c3_r20,core,2018,0,0,0,117.0901961
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c3_r20,ring,2018,100.2660337,0,83.98039216,3509.541176
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c3_r20,rest_of_host,2018,53.17746463,0,84.49019608,38271.27843
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r20,core,2018,0,0,0,283.3137255
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r20,ring,2018,100.2660337,0,83.98039216,3343.278431
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r20,rest_of_host,2018,53.17746463,0,84.49019608,38271.27843
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c10_r20,core,2018,0,0,0,941.1686275
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c10_r20,ring,2018,100.2660337,0,83.98039216,2685.337255
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c10_r20,rest_of_host,2018,53.17746463,0,84.49019608,38271.27843
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r30,core,2018,0,0,0,283.3137255
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r30,ring,2018,108.6525119,0,96.47843137,8410.729412
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r30,rest_of_host,2018,44.79844019,0,72,33203.57647
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c3_r20,core,2018,105.8068671,10.51372433,65.19215686,113.6823529
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c3_r20,ring,2018,584.7004797,46.53163387,550.6980392,1533.878431
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c3_r20,rest_of_host,2018,43.92405895,0,65.6,231.3607843
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r20,core,2018,167.8846123,10.51372433,120.3254902,260.9764706
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r20,ring,2018,522.6254681,46.53163387,495.5607843,1386.564706
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r20,rest_of_host,2018,43.92405895,0,65.6,231.3607843
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c10_r20,core,2018,268.2960591,10.51372433,246.5333333,632.8784314
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c10_r20,ring,2018,422.1967079,46.53163387,369.3294118,1014.639216
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c10_r20,rest_of_host,2018,43.92405895,0,65.6,231.3607843
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r30,core,2018,167.8846123,10.51372433,120.3254902,260.9764706
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r30,ring,2018,566.5918678,46.53163387,561.227451,1618.07451
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r30,rest_of_host,2018,0,0,0,0
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c3_r20,core,2018,21.87902055,0,27.5254902,119.8745098
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c3_r20,ring,2018,102.0746722,0,91.72941176,3168.933333
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c3_r20,rest_of_host,2018,152.5928479,0,123,10292.95294
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r20,core,2018,32.87349981,0,38.50980392,288.3019608
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r20,ring,2018,91.05983773,0,80.73333333,3000.47451
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r20,rest_of_host,2018,152.5928479,0,123,10292.95294
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c10_r20,core,2018,97.42241156,0,85.2627451,1037.839216
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c10_r20,ring,2018,26.54093879,0,34,2250.85098
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c10_r20,rest_of_host,2018,152.5928479,0,123,10292.95294
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r30,core,2018,32.87349981,0,38.50980392,288.3019608
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r30,ring,2018,121.3493266,0,110.0705882,6314.988235
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r30,rest_of_host,2018,122.2943083,0,93.65490196,6978.415686
+NE1,Morowali,"IMIP, Bahodopi",c3_r20,core,2019,1575.983207,1323.866624,116.6705882,116.6705882
+NE1,Morowali,"IMIP, Bahodopi",c3_r20,ring,2019,872.2973977,271.989052,355.7686275,2922.407843
+NE1,Morowali,"IMIP, Bahodopi",c3_r20,rest_of_host,2019,430.2196886,0,386.0039216,16333.67843
+NE1,Morowali,"IMIP, Bahodopi",c5_r20,core,2019,2223.206953,1596.330931,266.1333333,272.9254902
+NE1,Morowali,"IMIP, Bahodopi",c5_r20,ring,2019,225.5267374,0,206.2745098,2766.101961
+NE1,Morowali,"IMIP, Bahodopi",c5_r20,rest_of_host,2019,430.2196886,0,386.0039216,16333.67843
+NE1,Morowali,"IMIP, Bahodopi",c10_r20,core,2019,2402.206553,1596.330931,403.5294118,785.1568627
+NE1,Morowali,"IMIP, Bahodopi",c10_r20,ring,2019,46.64116338,0,68.95294118,2253.823529
+NE1,Morowali,"IMIP, Bahodopi",c10_r20,rest_of_host,2019,430.2196886,0,386.0039216,16333.67843
+NE1,Morowali,"IMIP, Bahodopi",c5_r30,core,2019,2223.206953,1596.330931,266.1333333,272.9254902
+NE1,Morowali,"IMIP, Bahodopi",c5_r30,ring,2019,304.1849276,0,316.1058824,5252.176471
+NE1,Morowali,"IMIP, Bahodopi",c5_r30,rest_of_host,2019,351.5635058,0,276.1764706,13847.59216
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c3_r20,core,2019,332.5036607,257.7345773,53.22745098,68.95294118
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c3_r20,ring,2019,157.3851188,2.891641998,142.3882353,3270.819608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c3_r20,rest_of_host,2019,188.6667491,0,191.5294118,7256.619608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r20,core,2019,374.9523027,260.5836951,72.8745098,183.027451
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r20,ring,2019,114.9111121,0,122.7411765,3156.67451
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r20,rest_of_host,2019,188.6667491,0,191.5294118,7256.619608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c10_r20,core,2019,419.6581928,260.5836951,107.8470588,773.8196078
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c10_r20,ring,2019,70.1738593,0,87.76470588,2565.823529
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c10_r20,rest_of_host,2019,188.6667491,0,191.5294118,7256.619608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r30,core,2019,374.9523027,260.5836951,72.8745098,183.027451
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r30,ring,2019,173.0898603,0,176.3294118,5372.094118
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r30,rest_of_host,2019,130.4868982,0,137.9372549,5041.321569
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c3_r20,core,2019,363.2941812,110.3905173,92.27058824,97.87843137
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c3_r20,ring,2019,1925.644462,1538.812775,228.172549,2720.627451
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c3_r20,rest_of_host,2019,340.8960882,0,388.9215686,35337.2902
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r20,core,2019,819.8250476,431.2128303,172.4666667,247.4156863
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r20,ring,2019,1469.115408,1217.990462,147.972549,2571.047059
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r20,rest_of_host,2019,340.8960882,0,388.9215686,35337.2902
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c10_r20,core,2019,910.5353985,431.2128303,243.3764706,904.1411765
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c10_r20,ring,2019,1378.407008,1217.990462,77.07843137,1914.25098
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c10_r20,rest_of_host,2019,340.8960882,0,388.9215686,35337.2902
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r30,core,2019,819.8250476,431.2128303,172.4666667,247.4156863
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r30,ring,2019,1469.115408,1217.990462,147.972549,4791.658824
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r30,rest_of_host,2019,340.8960882,0,388.9215686,33116.72549
+NE4,Konawe,"VDNI / OSS, Morosi",c3_r20,core,2019,1567.920016,1254.116446,125.2666667,130.7058824
+NE4,Konawe,"VDNI / OSS, Morosi",c3_r20,ring,2019,746.7866744,106.8429022,632.5490196,2215.427451
+NE4,Konawe,"VDNI / OSS, Morosi",c3_r20,rest_of_host,2019,888.1783577,0,1105.203922,21418.58824
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r20,core,2019,1853.073587,1302.173393,288.5294118,361.2313725
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r20,ring,2019,461.7405288,58.78595448,469.3294118,1984.886275
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r20,rest_of_host,2019,888.1783577,0,1105.203922,21418.58824
+NE4,Konawe,"VDNI / OSS, Morosi",c10_r20,core,2019,2077.641333,1309.767068,527.2862745,1067.639216
+NE4,Konawe,"VDNI / OSS, Morosi",c10_r20,ring,2019,237.0153457,51.07299285,230.5647059,1278.443137
+NE4,Konawe,"VDNI / OSS, Morosi",c10_r20,rest_of_host,2019,888.1783577,0,1105.203922,21418.58824
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r30,core,2019,1853.073587,1302.173393,288.5294118,361.2313725
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r30,ring,2019,636.4334218,58.78595448,777.7411765,3570.062745
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r30,rest_of_host,2019,713.4902365,0,796.8039216,19833.38824
+NS1,Kolaka,Antam Pomalaa smelter,c3_r20,core,2019,430.2544138,300.080416,48.6627451,48.84705882
+NS1,Kolaka,Antam Pomalaa smelter,c3_r20,ring,2019,891.8262163,247.0282692,535.5137255,3371.184314
+NS1,Kolaka,Antam Pomalaa smelter,c3_r20,rest_of_host,2019,272.3508019,0,456.145098,11011.99216
+NS1,Kolaka,Antam Pomalaa smelter,c5_r20,core,2019,502.3572933,300.080416,114.9294118,150.8862745
+NS1,Kolaka,Antam Pomalaa smelter,c5_r20,ring,2019,819.736631,247.0282692,469.2431373,3269.090196
+NS1,Kolaka,Antam Pomalaa smelter,c5_r20,rest_of_host,2019,272.3508019,0,456.145098,11011.99216
+NS1,Kolaka,Antam Pomalaa smelter,c10_r20,core,2019,568.608266,300.080416,215.0941176,706.1490196
+NS1,Kolaka,Antam Pomalaa smelter,c10_r20,ring,2019,753.4909668,247.0282692,369.0745098,2713.772549
+NS1,Kolaka,Antam Pomalaa smelter,c10_r20,rest_of_host,2019,272.3508019,0,456.145098,11011.99216
+NS1,Kolaka,Antam Pomalaa smelter,c5_r30,core,2019,502.3572933,300.080416,114.9294118,150.8862745
+NS1,Kolaka,Antam Pomalaa smelter,c5_r30,ring,2019,875.8087818,247.0282692,584.3372549,6505.756863
+NS1,Kolaka,Antam Pomalaa smelter,c5_r30,rest_of_host,2019,216.2752651,0,341.0431373,7775.4
+NS2,Luwu Timur,"PT Vale, Sorowako",c3_r20,core,2019,468.0882612,132.180378,108.0941176,130.4941176
+NS2,Luwu Timur,"PT Vale, Sorowako",c3_r20,ring,2019,10450.49772,8631.875744,851.5647059,5074.098039
+NS2,Luwu Timur,"PT Vale, Sorowako",c3_r20,rest_of_host,2019,528.8335546,52.65817738,343.0823529,26220.6549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r20,core,2019,900.4819493,270.5839482,223.2588235,364.172549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r20,ring,2019,10017.77445,8493.134289,736.3843137,4840.341176
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r20,rest_of_host,2019,528.8335546,52.65817738,343.0823529,26220.6549
+NS2,Luwu Timur,"PT Vale, Sorowako",c10_r20,core,2019,10199.13506,8752.994288,537.2431373,1461.776471
+NS2,Luwu Timur,"PT Vale, Sorowako",c10_r20,ring,2019,719.3277651,11.01940201,422.4117647,3742.654902
+NS2,Luwu Timur,"PT Vale, Sorowako",c10_r20,rest_of_host,2019,528.8335546,52.65817738,343.0823529,26220.6549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r30,core,2019,900.4819493,270.5839482,223.2588235,364.172549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r30,ring,2019,10171.1568,8493.134289,863.4235294,9586.568627
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r30,rest_of_host,2019,375.411985,52.65817738,216.027451,21474.22353
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c3_r20,core,2019,51.3768805,0,47.61568627,64.1254902
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c3_r20,ring,2019,314.3372274,94.41684135,194.4117647,3244.984314
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c3_r20,rest_of_host,2019,174.2530558,0,324.745098,26957.23137
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r20,core,2019,201.7232704,94.3691328,86.25490196,128.3215686
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r20,ring,2019,163.991983,0.047708549,155.7686275,3180.792157
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r20,rest_of_host,2019,174.2530558,0,324.745098,26957.23137
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c10_r20,core,2019,247.8673667,94.41684135,143.5568627,528.1176471
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c10_r20,ring,2019,117.8849375,0,98.48627451,2780.909804
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c10_r20,rest_of_host,2019,174.2530558,0,324.745098,26957.23137
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r30,core,2019,201.7232704,94.3691328,86.25490196,128.3215686
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r30,ring,2019,182.1652552,0.047708549,189.0823529,8532.345098
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r30,rest_of_host,2019,156.0721664,0,291.4117647,21605.52941
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c3_r20,core,2019,3.267811298,0,6,117.0901961
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c3_r20,ring,2019,61.13246394,0,55.30196078,3509.541176
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c3_r20,rest_of_host,2019,24.31364784,0,38.02745098,38271.27843
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r20,core,2019,3.267811298,0,6,283.3137255
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r20,ring,2019,61.13246394,0,55.30196078,3343.278431
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r20,rest_of_host,2019,24.31364784,0,38.02745098,38271.27843
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c10_r20,core,2019,3.267811298,0,6,941.1686275
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c10_r20,ring,2019,61.13246394,0,55.30196078,2685.337255
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c10_r20,rest_of_host,2019,24.31364784,0,38.02745098,38271.27843
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r30,core,2019,3.267811298,0,6,283.3137255
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r30,ring,2019,62.39946376,0,58.33333333,8410.729412
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r30,rest_of_host,2019,23.0487977,0,35,33203.57647
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c3_r20,core,2019,160.3032019,79.28418922,62.71372549,113.6823529
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c3_r20,ring,2019,595.4918661,41.53528544,595.7490196,1533.878431
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c3_r20,rest_of_host,2019,49.46281672,0,67.91764706,231.3607843
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r20,core,2019,225.416322,79.28418922,125.254902,260.9764706
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r20,ring,2019,530.3861041,41.53528544,533.2078431,1386.564706
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r20,rest_of_host,2019,49.46281672,0,67.91764706,231.3607843
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c10_r20,core,2019,332.5564859,79.28418922,263.7882353,632.8784314
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c10_r20,ring,2019,423.2275567,41.53528544,394.6470588,1014.639216
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c10_r20,rest_of_host,2019,49.46281672,0,67.91764706,231.3607843
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r30,core,2019,225.416322,79.28418922,125.254902,260.9764706
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r30,ring,2019,579.8994435,41.53528544,601.1882353,1618.07451
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r30,rest_of_host,2019,0,0,0,0
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c3_r20,core,2019,5.107351273,0,8,119.8745098
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c3_r20,ring,2019,65.04252924,0,50.7372549,3168.933333
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c3_r20,rest_of_host,2019,151.3570251,0,144.3607843,10292.95294
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r20,core,2019,5.11070535,0,8.007843137,288.3019608
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r20,ring,2019,65.03917516,0,50.72941176,3000.47451
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r20,rest_of_host,2019,151.3570251,0,144.3607843,10292.95294
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c10_r20,core,2019,46.01117782,0,28.7372549,1037.839216
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c10_r20,ring,2019,24.13870269,0,30,2250.85098
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c10_r20,rest_of_host,2019,151.3570251,0,144.3607843,10292.95294
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r30,core,2019,5.11070535,0,8.007843137,288.3019608
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r30,ring,2019,109.2779525,0,99.03137255,6314.988235
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r30,rest_of_host,2019,107.1110004,0,96.05098039,6978.415686
+NE1,Morowali,"IMIP, Bahodopi",c3_r20,core,2020,2517.531645,2276.843409,116.6705882,116.6705882
+NE1,Morowali,"IMIP, Bahodopi",c3_r20,ring,2020,915.410085,266.2583696,382.3490196,2922.407843
+NE1,Morowali,"IMIP, Bahodopi",c3_r20,rest_of_host,2020,517.2256673,0,435.8,16333.67843
+NE1,Morowali,"IMIP, Bahodopi",c5_r20,core,2020,3168.784939,2543.591742,260.9764706,272.9254902
+NE1,Morowali,"IMIP, Bahodopi",c5_r20,ring,2020,264.5941078,0,238.0196078,2766.101961
+NE1,Morowali,"IMIP, Bahodopi",c5_r20,rest_of_host,2020,517.2256673,0,435.8,16333.67843
+NE1,Morowali,"IMIP, Bahodopi",c10_r20,core,2020,3358.075609,2543.591742,400.4509804,785.1568627
+NE1,Morowali,"IMIP, Bahodopi",c10_r20,ring,2020,75.42238101,0,98.60392157,2253.823529
+NE1,Morowali,"IMIP, Bahodopi",c10_r20,rest_of_host,2020,517.2256673,0,435.8,16333.67843
+NE1,Morowali,"IMIP, Bahodopi",c5_r30,core,2020,3168.784939,2543.591742,260.9764706,272.9254902
+NE1,Morowali,"IMIP, Bahodopi",c5_r30,ring,2020,371.9573747,0,376.4196078,5252.176471
+NE1,Morowali,"IMIP, Bahodopi",c5_r30,rest_of_host,2020,409.8763046,0,297.4196078,13847.59216
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c3_r20,core,2020,549.7993721,469.1798504,59.3254902,68.95294118
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c3_r20,ring,2020,216.3294239,14.24169183,156.1019608,3270.819608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c3_r20,rest_of_host,2020,167.9947722,0,188.8901961,7256.619608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r20,core,2020,614.4248203,483.37391,91.55686275,183.027451
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r20,ring,2020,151.6646988,0,123.8745098,3156.67451
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r20,rest_of_host,2020,167.9947722,0,188.8901961,7256.619608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c10_r20,core,2020,712.2835041,483.37391,152.1647059,773.8196078
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c10_r20,ring,2020,53.78364121,0,63.2627451,2565.823529
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c10_r20,rest_of_host,2020,167.9947722,0,188.8901961,7256.619608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r30,core,2020,614.4248203,483.37391,91.55686275,183.027451
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r30,ring,2020,220.7179771,0,178.8588235,5372.094118
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r30,rest_of_host,2020,98.93999972,0,133.9019608,5041.321569
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c3_r20,core,2020,434.8088572,163.9227287,92.21176471,97.87843137
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c3_r20,ring,2020,2674.367805,2219.74746,289.3137255,2720.627451
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c3_r20,rest_of_host,2020,390.2068094,0,420.6588235,35337.2902
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r20,core,2020,802.7804945,415.7195578,172.6862745,247.4156863
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r20,ring,2020,2306.401658,1967.950631,208.8235294,2571.047059
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r20,rest_of_host,2020,390.2068094,0,420.6588235,35337.2902
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c10_r20,core,2020,868.5987513,415.7195578,245.0745098,904.1411765
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c10_r20,ring,2020,2240.580688,1967.950631,136.4588235,1914.25098
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c10_r20,rest_of_host,2020,390.2068094,0,420.6588235,35337.2902
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r30,core,2020,802.7804945,415.7195578,172.6862745,247.4156863
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r30,ring,2020,2306.401658,1967.950631,208.8235294,4791.658824
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r30,rest_of_host,2020,390.2068094,0,420.6588235,33116.72549
+NE4,Konawe,"VDNI / OSS, Morosi",c3_r20,core,2020,2563.228052,2199.807419,128.8352941,130.7058824
+NE4,Konawe,"VDNI / OSS, Morosi",c3_r20,ring,2020,2017.979159,1156.083029,718.8941176,2215.427451
+NE4,Konawe,"VDNI / OSS, Morosi",c3_r20,rest_of_host,2020,1097.777165,0,1208.329412,21418.58824
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r20,core,2020,3995.368435,3323.643989,310.772549,361.2313725
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r20,ring,2020,585.9178821,32.20303274,536.9882353,1984.886275
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r20,rest_of_host,2020,1097.777165,0,1208.329412,21418.58824
+NE4,Konawe,"VDNI / OSS, Morosi",c10_r20,core,2020,4311.806042,3330.086647,615.6705882,1067.639216
+NE4,Konawe,"VDNI / OSS, Morosi",c10_r20,ring,2020,269.423268,25.74316221,232.0862745,1278.443137
+NE4,Konawe,"VDNI / OSS, Morosi",c10_r20,rest_of_host,2020,1097.777165,0,1208.329412,21418.58824
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r30,core,2020,3995.368435,3323.643989,310.772549,361.2313725
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r30,ring,2020,845.9605255,32.20303274,924.5333333,3570.062745
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r30,rest_of_host,2020,837.7427977,0,820.8039216,19833.38824
+NS1,Kolaka,Antam Pomalaa smelter,c3_r20,core,2020,540.7610668,386.9814637,48.84705882,48.84705882
+NS1,Kolaka,Antam Pomalaa smelter,c3_r20,ring,2020,994.6337248,240.8601799,582.0156863,3371.184314
+NS1,Kolaka,Antam Pomalaa smelter,c3_r20,rest_of_host,2020,425.9153865,0,669.2078431,11011.99216
+NS1,Kolaka,Antam Pomalaa smelter,c5_r20,core,2020,623.1746898,386.9814637,119.2039216,150.8862745
+NS1,Kolaka,Antam Pomalaa smelter,c5_r20,ring,2020,912.2385842,240.8601799,511.654902,3269.090196
+NS1,Kolaka,Antam Pomalaa smelter,c5_r20,rest_of_host,2020,425.9153865,0,669.2078431,11011.99216
+NS1,Kolaka,Antam Pomalaa smelter,c10_r20,core,2020,743.6417704,386.9814637,276.3882353,706.1490196
+NS1,Kolaka,Antam Pomalaa smelter,c10_r20,ring,2020,791.7665601,240.8601799,354.4588235,2713.772549
+NS1,Kolaka,Antam Pomalaa smelter,c10_r20,rest_of_host,2020,425.9153865,0,669.2078431,11011.99216
+NS1,Kolaka,Antam Pomalaa smelter,c5_r30,core,2020,623.1746898,386.9814637,119.2039216,150.8862745
+NS1,Kolaka,Antam Pomalaa smelter,c5_r30,ring,2020,1000.049895,240.8601799,663.1333333,6505.756863
+NS1,Kolaka,Antam Pomalaa smelter,c5_r30,rest_of_host,2020,338.0955131,0,517.7137255,7775.4
+NS2,Luwu Timur,"PT Vale, Sorowako",c3_r20,core,2020,528.4814449,161.9253912,112.7764706,130.4941176
+NS2,Luwu Timur,"PT Vale, Sorowako",c3_r20,ring,2020,15404.42921,13445.50491,966.9921569,5074.098039
+NS2,Luwu Timur,"PT Vale, Sorowako",c3_r20,rest_of_host,2020,630.0002546,14.25671291,445.8509804,26220.6549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r20,core,2020,1180.500226,452.8585272,238.4117647,364.172549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r20,ring,2020,14751.85579,13153.97685,841.3411765,4840.341176
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r20,rest_of_host,2020,630.0002546,14.25671291,445.8509804,26220.6549
+NS2,Luwu Timur,"PT Vale, Sorowako",c10_r20,core,2020,15145.48597,13594.78496,612.8352941,1461.776471
+NS2,Luwu Timur,"PT Vale, Sorowako",c10_r20,ring,2020,787.3451151,12.6453471,466.9372549,3742.654902
+NS2,Luwu Timur,"PT Vale, Sorowako",c10_r20,rest_of_host,2020,630.0002546,14.25671291,445.8509804,26220.6549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r30,core,2020,1180.500226,452.8585272,238.4117647,364.172549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r30,ring,2020,14945.05256,13153.97685,980.5490196,9586.568627
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r30,rest_of_host,2020,436.7462028,14.25671291,306.6196078,21474.22353
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c3_r20,core,2020,19.40039026,0,18.24313725,64.1254902
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c3_r20,ring,2020,400.8877441,141.9470169,219.0784314,3244.984314
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c3_r20,rest_of_host,2020,296.2369637,0,412.9372549,26957.23137
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r20,core,2020,238.3371014,141.8696447,64.39607843,128.3215686
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r20,ring,2020,181.9507831,0.077372181,172.9215686,3180.792157
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r20,rest_of_host,2020,296.2369637,0,412.9372549,26957.23137
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c10_r20,core,2020,299.2019534,141.9470169,135.5803922,528.1176471
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c10_r20,ring,2020,121.1345415,0,101.7568627,2780.909804
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c10_r20,rest_of_host,2020,296.2369637,0,412.9372549,26957.23137
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r30,core,2020,238.3371014,141.8696447,64.39607843,128.3215686
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r30,ring,2020,208.2591731,0.077372181,200.5176471,8532.345098
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r30,rest_of_host,2020,269.91865,0,385.3215686,21605.52941
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c3_r20,core,2020,67.97422293,0,46.1372549,117.0901961
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c3_r20,ring,2020,173.5730959,8.508417728,117.654902,3509.541176
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c3_r20,rest_of_host,2020,39.38694477,0,59.33333333,38271.27843
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r20,core,2020,70.75781729,0,48.89803922,283.3137255
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r20,ring,2020,170.7895016,8.508417728,114.8941176,3343.278431
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r20,rest_of_host,2020,39.38694477,0,59.33333333,38271.27843
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c10_r20,core,2020,70.75781729,0,48.89803922,941.1686275
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c10_r20,ring,2020,170.7895016,8.508417728,114.8941176,2685.337255
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c10_r20,rest_of_host,2020,39.38694477,0,59.33333333,38271.27843
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r30,core,2020,70.75781729,0,48.89803922,283.3137255
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r30,ring,2020,179.4539079,8.508417728,126.2352941,8410.729412
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r30,rest_of_host,2020,30.72853558,0,48,33203.57647
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c3_r20,core,2020,172.3778466,91.58473778,63.91372549,113.6823529
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c3_r20,ring,2020,802.6876358,39.78104002,842.4313725,1533.878431
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c3_r20,rest_of_host,2020,55.52266379,0,73.99215686,231.3607843
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r20,core,2020,248.1215812,91.58473778,142.3137255,260.9764706
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r20,ring,2020,726.9354331,39.78104002,764.0117647,1386.564706
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r20,rest_of_host,2020,55.52266379,0,73.99215686,231.3607843
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c10_r20,core,2020,403.6871819,91.58473778,337.4196078,632.8784314
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c10_r20,ring,2020,571.3621964,39.78104002,568.8980392,1014.639216
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c10_r20,rest_of_host,2020,55.52266379,0,73.99215686,231.3607843
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r30,core,2020,248.1215812,91.58473778,142.3137255,260.9764706
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r30,ring,2020,782.5167849,39.78104002,838.0705882,1618.07451
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r30,rest_of_host,2020,0,0,0,0
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c3_r20,core,2020,9.736112773,0,12,119.8745098
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c3_r20,ring,2020,79.98776659,0,83.49411765,3168.933333
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c3_r20,rest_of_host,2020,204.4144948,0,167.9372549,10292.95294
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r20,core,2020,11.0827446,0,13.50980392,288.3019608
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r20,ring,2020,78.6339923,0,81.97647059,3000.47451
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r20,rest_of_host,2020,204.4144948,0,167.9372549,10292.95294
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c10_r20,core,2020,48.17640617,0,44.49411765,1037.839216
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c10_r20,ring,2020,41.54747319,0,51,2250.85098
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c10_r20,rest_of_host,2020,204.4144948,0,167.9372549,10292.95294
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r30,core,2020,11.0827446,0,13.50980392,288.3019608
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r30,ring,2020,135.5074451,0,137.5176471,6314.988235
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r30,rest_of_host,2020,147.5329774,0,112.3882353,6978.415686
+NE1,Morowali,"IMIP, Bahodopi",c3_r20,core,2021,1367.835119,1111.09172,116.4156863,116.6705882
+NE1,Morowali,"IMIP, Bahodopi",c3_r20,ring,2021,1375.429555,482.6680344,484.2078431,2922.407843
+NE1,Morowali,"IMIP, Bahodopi",c3_r20,rest_of_host,2021,638.4107485,0,553.6627451,16333.67843
+NE1,Morowali,"IMIP, Bahodopi",c5_r20,core,2021,2193.005448,1579.453621,252.2588235,272.9254902
+NE1,Morowali,"IMIP, Bahodopi",c5_r20,ring,2021,550.6180061,14.82156709,348.3333333,2766.101961
+NE1,Morowali,"IMIP, Bahodopi",c5_r20,rest_of_host,2021,638.4107485,0,553.6627451,16333.67843
+NE1,Morowali,"IMIP, Bahodopi",c10_r20,core,2021,2566.720174,1594.322071,445.1607843,785.1568627
+NE1,Morowali,"IMIP, Bahodopi",c10_r20,ring,2021,177.1712873,0,155.5019608,2253.823529
+NE1,Morowali,"IMIP, Bahodopi",c10_r20,rest_of_host,2021,638.4107485,0,553.6627451,16333.67843
+NE1,Morowali,"IMIP, Bahodopi",c5_r30,core,2021,2193.005448,1579.453621,252.2588235,272.9254902
+NE1,Morowali,"IMIP, Bahodopi",c5_r30,ring,2021,694.0280992,14.82156709,479.0039216,5252.176471
+NE1,Morowali,"IMIP, Bahodopi",c5_r30,rest_of_host,2021,495.0164858,0,422.9960784,13847.59216
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c3_r20,core,2021,474.8497417,368.9658913,60.99215686,68.95294118
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c3_r20,ring,2021,647.0236072,214.3016972,299.7411765,3270.819608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c3_r20,rest_of_host,2021,217.6929515,0,281.172549,7256.619608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r20,core,2021,630.4369741,426.1786949,103.4784314,183.027451
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r20,ring,2021,491.3480496,156.9813476,257.2627451,3156.67451
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r20,rest_of_host,2021,217.6929515,0,281.172549,7256.619608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c10_r20,core,2021,977.4829898,583.2605452,203.254902,773.8196078
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c10_r20,ring,2021,144.3792096,0,157.4823529,2565.823529
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c10_r20,rest_of_host,2021,217.6929515,0,281.172549,7256.619608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r30,core,2021,630.4369741,426.1786949,103.4784314,183.027451
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r30,ring,2021,585.2101671,156.9813476,341.1137255,5372.094118
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r30,rest_of_host,2021,123.8295664,0,197.3176471,5041.321569
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c3_r20,core,2021,595.3738895,344.7791241,90.28235294,97.87843137
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c3_r20,ring,2021,840.4906658,517.423309,261.4745098,2720.627451
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c3_r20,rest_of_host,2021,472.0383211,0,566.9686275,35337.2902
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r20,core,2021,1176.016751,802.6775671,180.1058824,247.4156863
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r20,ring,2021,259.8615613,59.52486603,171.6431373,2571.047059
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r20,rest_of_host,2021,472.0383211,0,566.9686275,35337.2902
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c10_r20,core,2021,1224.042375,802.6775671,239.854902,904.1411765
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c10_r20,ring,2021,211.8596889,59.52486603,111.9176471,1914.25098
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c10_r20,rest_of_host,2021,472.0383211,0,566.9686275,35337.2902
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r30,core,2021,1176.016751,802.6775671,180.1058824,247.4156863
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r30,ring,2021,261.4691583,59.52486603,175.3960784,4791.658824
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r30,rest_of_host,2021,470.4307242,0,563.2156863,33116.72549
+NE4,Konawe,"VDNI / OSS, Morosi",c3_r20,core,2021,1438.428639,1127.724447,123.1098039,130.7058824
+NE4,Konawe,"VDNI / OSS, Morosi",c3_r20,ring,2021,2429.392281,1446.085109,765.6862745,2215.427451
+NE4,Konawe,"VDNI / OSS, Morosi",c3_r20,rest_of_host,2021,1224.193936,0,1331.823529,21418.58824
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r20,core,2021,3171.661234,2523.47222,306.4431373,361.2313725
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r20,ring,2021,696.1755098,50.26706703,582.3843137,1984.886275
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r20,rest_of_host,2021,1224.193936,0,1331.823529,21418.58824
+NE4,Konawe,"VDNI / OSS, Morosi",c10_r20,core,2021,3566.800922,2538.691618,633.427451,1067.639216
+NE4,Konawe,"VDNI / OSS, Morosi",c10_r20,ring,2021,301.0407904,35.06356901,255.3803922,1278.443137
+NE4,Konawe,"VDNI / OSS, Morosi",c10_r20,rest_of_host,2021,1224.193936,0,1331.823529,21418.58824
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r30,core,2021,3171.661234,2523.47222,306.4431373,361.2313725
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r30,ring,2021,1028.71482,50.26706703,1001.709804,3570.062745
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r30,rest_of_host,2021,891.6640634,0,912.5176471,19833.38824
+NS1,Kolaka,Antam Pomalaa smelter,c3_r20,core,2021,364.750881,194.6593177,48.84705882,48.84705882
+NS1,Kolaka,Antam Pomalaa smelter,c3_r20,ring,2021,1123.479527,226.0556961,656.4235294,3371.184314
+NS1,Kolaka,Antam Pomalaa smelter,c3_r20,rest_of_host,2021,563.5582613,0,756.654902,11011.99216
+NS1,Kolaka,Antam Pomalaa smelter,c5_r20,core,2021,455.0947022,194.6593177,112.3803922,150.8862745
+NS1,Kolaka,Antam Pomalaa smelter,c5_r20,ring,2021,1033.145047,226.0556961,592.8901961,3269.090196
+NS1,Kolaka,Antam Pomalaa smelter,c5_r20,rest_of_host,2021,563.5582613,0,756.654902,11011.99216
+NS1,Kolaka,Antam Pomalaa smelter,c10_r20,core,2021,620.7076916,194.6593177,296.7372549,706.1490196
+NS1,Kolaka,Antam Pomalaa smelter,c10_r20,ring,2021,867.5291695,226.0556961,408.5176471,2713.772549
+NS1,Kolaka,Antam Pomalaa smelter,c10_r20,rest_of_host,2021,563.5582613,0,756.654902,11011.99216
+NS1,Kolaka,Antam Pomalaa smelter,c5_r30,core,2021,455.0947022,194.6593177,112.3803922,150.8862745
+NS1,Kolaka,Antam Pomalaa smelter,c5_r30,ring,2021,1169.606134,226.0556961,792.9333333,6505.756863
+NS1,Kolaka,Antam Pomalaa smelter,c5_r30,rest_of_host,2021,427.0843192,0,556.5960784,7775.4
+NS2,Luwu Timur,"PT Vale, Sorowako",c3_r20,core,2021,468.2685383,70.02112218,107.2156863,130.4941176
+NS2,Luwu Timur,"PT Vale, Sorowako",c3_r20,ring,2021,11282.02697,8983.823686,1145.811765,5074.098039
+NS2,Luwu Timur,"PT Vale, Sorowako",c3_r20,rest_of_host,2021,816.630512,62.76811504,615.7607843,26220.6549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r20,core,2021,1198.762408,461.077164,227.9921569,364.172549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r20,ring,2021,10550.79643,8592.076895,1025.019608,4840.341176
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r20,rest_of_host,2021,816.630512,62.76811504,615.7607843,26220.6549
+NS2,Luwu Timur,"PT Vale, Sorowako",c10_r20,core,2021,10339.16569,8745.613408,633.7294118,1461.776471
+NS2,Luwu Timur,"PT Vale, Sorowako",c10_r20,ring,2021,1410.78813,308.0311622,619.2823529,3742.654902
+NS2,Luwu Timur,"PT Vale, Sorowako",c10_r20,rest_of_host,2021,816.630512,62.76811504,615.7607843,26220.6549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r30,core,2021,1198.762408,461.077164,227.9921569,364.172549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r30,ring,2021,10740.8884,8592.076895,1192.635294,9586.568627
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r30,rest_of_host,2021,626.4848028,62.76811504,448.1372549,21474.22353
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c3_r20,core,2021,48.47116754,0,47.75686275,64.1254902
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c3_r20,ring,2021,334.4159374,87.81385738,236.1843137,3244.984314
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c3_r20,rest_of_host,2021,398.6868023,24.44590759,504.3568627,26957.23137
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r20,core,2021,203.3654769,87.81385738,97.85882353,128.3215686
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r20,ring,2021,179.5351835,0,186.0784314,3180.792157
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r20,rest_of_host,2021,398.6868023,24.44590759,504.3568627,26957.23137
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c10_r20,core,2021,247.1511242,87.81385738,162.7372549,528.1176471
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c10_r20,ring,2021,135.7795612,0,121.2196078,2780.909804
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c10_r20,rest_of_host,2021,398.6868023,24.44590759,504.3568627,26957.23137
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r30,core,2021,203.3654769,87.81385738,97.85882353,128.3215686
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r30,ring,2021,205.4363671,0,229.4117647,8532.345098
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r30,rest_of_host,2021,372.7760111,24.44590759,461.0039216,21605.52941
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c3_r20,core,2021,105.4172441,0,73.29019608,117.0901961
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c3_r20,ring,2021,175.1431015,0,131.8078431,3509.541176
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c3_r20,rest_of_host,2021,64.17345256,0,85,38271.27843
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r20,core,2021,119.2027887,0,87.72156863,283.3137255
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r20,ring,2021,161.3654901,0,117.3921569,3343.278431
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r20,rest_of_host,2021,64.17345256,0,85,38271.27843
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c10_r20,core,2021,127.5389552,0,100.2745098,941.1686275
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c10_r20,ring,2021,153.0293235,0,104.8392157,2685.337255
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c10_r20,rest_of_host,2021,64.17345256,0,85,38271.27843
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r30,core,2021,119.2027887,0,87.72156863,283.3137255
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r30,ring,2021,193.2264691,0,154.3921569,8410.729412
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r30,rest_of_host,2021,32.31247357,0,48,33203.57647
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c3_r20,core,2021,132.5496366,31.09072208,60.43529412,113.6823529
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c3_r20,ring,2021,966.4484347,103.6784345,874.0627451,1533.878431
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c3_r20,rest_of_host,2021,54.8272015,0,69.91764706,231.3607843
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r20,core,2021,227.4996649,31.09072208,145.2313725,260.9764706
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r20,ring,2021,871.4847762,103.6784345,789.2509804,1386.564706
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r20,rest_of_host,2021,54.8272015,0,69.91764706,231.3607843
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c10_r20,core,2021,421.5735888,31.09072208,358.0196078,632.8784314
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c10_r20,ring,2021,677.4076823,103.6784345,576.4509804,1014.639216
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c10_r20,rest_of_host,2021,54.8272015,0,69.91764706,231.3607843
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r30,core,2021,227.4996649,31.09072208,145.2313725,260.9764706
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r30,ring,2021,926.3686497,103.6784345,859.2352941,1618.07451
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r30,rest_of_host,2021,0,0,0,0
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c3_r20,core,2021,3.344498008,0,11.83921569,119.8745098
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c3_r20,ring,2021,38.40570276,0,68.84705882,3168.933333
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c3_r20,rest_of_host,2021,306.3667724,0,237.9882353,10292.95294
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r20,core,2021,4.330276863,0,16.00392157,288.3019608
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r20,ring,2021,37.41712537,0,64.67843137,3000.47451
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r20,rest_of_host,2021,306.3667724,0,237.9882353,10292.95294
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c10_r20,core,2021,8.979709766,0,42.68627451,1037.839216
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c10_r20,ring,2021,32.770491,0,38,2250.85098
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c10_r20,rest_of_host,2021,306.3667724,0,237.9882353,10292.95294
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r30,core,2021,4.330276863,0,16.00392157,288.3019608
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r30,ring,2021,120.9741477,0,127.345098,6314.988235
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r30,rest_of_host,2021,222.8001012,0,175.3137255,6978.415686
+NE1,Morowali,"IMIP, Bahodopi",c3_r20,core,2022,2006.846765,1756.915005,116.6705882,116.6705882
+NE1,Morowali,"IMIP, Bahodopi",c3_r20,ring,2022,4783.604106,3480.322459,628.6627451,2922.407843
+NE1,Morowali,"IMIP, Bahodopi",c3_r20,rest_of_host,2022,1110.416038,66.39619957,741.6745098,16333.67843
+NE1,Morowali,"IMIP, Bahodopi",c5_r20,core,2022,4135.360244,3514.553032,264.972549,272.9254902
+NE1,Morowali,"IMIP, Bahodopi",c5_r20,ring,2022,2654.416483,1722.002111,480.3372549,2766.101961
+NE1,Morowali,"IMIP, Bahodopi",c5_r20,rest_of_host,2022,1110.416038,66.39619957,741.6745098,16333.67843
+NE1,Morowali,"IMIP, Bahodopi",c10_r20,core,2022,6498.980146,5238.169619,543.2117647,785.1568627
+NE1,Morowali,"IMIP, Bahodopi",c10_r20,ring,2022,292.4838271,0,202.1411765,2253.823529
+NE1,Morowali,"IMIP, Bahodopi",c10_r20,rest_of_host,2022,1110.416038,66.39619957,741.6745098,16333.67843
+NE1,Morowali,"IMIP, Bahodopi",c5_r30,core,2022,4135.360244,3514.553032,264.972549,272.9254902
+NE1,Morowali,"IMIP, Bahodopi",c5_r30,ring,2022,3192.57693,1788.39831,799.3294118,5252.176471
+NE1,Morowali,"IMIP, Bahodopi",c5_r30,rest_of_host,2022,572.2627861,0,422.6862745,13847.59216
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c3_r20,core,2022,519.6829055,412.1035902,63.58039216,68.95294118
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c3_r20,ring,2022,1368.39456,521.649971,421.7058824,3270.819608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c3_r20,rest_of_host,2022,239.8353019,0,235.8039216,7256.619608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r20,core,2022,795.1725744,601.2372966,111.4745098,183.027451
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r20,ring,2022,1092.60313,332.2000064,373.8039216,3156.67451
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r20,rest_of_host,2022,239.8353019,0,235.8039216,7256.619608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c10_r20,core,2022,1479.842819,933.7512801,233.3490196,773.8196078
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c10_r20,ring,2022,408.2320749,0,251.9333333,2565.823529
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c10_r20,rest_of_host,2022,239.8353019,0,235.8039216,7256.619608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r30,core,2022,795.1725744,601.2372966,111.4745098,183.027451
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r30,ring,2022,1208.564165,332.2000064,459.0196078,5372.094118
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r30,rest_of_host,2022,123.876713,0,150.5960784,5041.321569
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c3_r20,core,2022,1045.923084,796.591163,92.17254902,97.87843137
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c3_r20,ring,2022,1239.173054,693.2007651,329.9215686,2720.627451
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c3_r20,rest_of_host,2022,490.6072072,0,491.0980392,35337.2902
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r20,core,2022,1665.889789,1156.487133,203.4823529,247.4156863
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r20,ring,2022,619.2815967,333.3485281,218.5843137,2571.047059
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r20,rest_of_host,2022,490.6072072,0,491.0980392,35337.2902
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c10_r20,core,2022,1854.412048,1156.487133,338.772549,904.1411765
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c10_r20,ring,2022,430.8579436,333.3485281,83.34117647,1914.25098
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c10_r20,rest_of_host,2022,490.6072072,0,491.0980392,35337.2902
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r30,core,2022,1665.889789,1156.487133,203.4823529,247.4156863
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r30,ring,2022,624.1239999,333.3485281,229.2431373,4791.658824
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r30,rest_of_host,2022,485.764804,0,480.4392157,33116.72549
+NE4,Konawe,"VDNI / OSS, Morosi",c3_r20,core,2022,1672.562674,1336.392663,123.9686275,130.7058824
+NE4,Konawe,"VDNI / OSS, Morosi",c3_r20,ring,2022,3680.211511,2631.645684,813.0941176,2215.427451
+NE4,Konawe,"VDNI / OSS, Morosi",c3_r20,rest_of_host,2022,1468.376778,0,1600.870588,21418.58824
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r20,core,2022,4302.599372,3620.845393,313,361.2313725
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r20,ring,2022,1048.647303,345.5240922,624.0705882,1984.886275
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r20,rest_of_host,2022,1468.376778,0,1600.870588,21418.58824
+NE4,Konawe,"VDNI / OSS, Morosi",c10_r20,core,2022,5025.169234,3932.242154,650.9607843,1067.639216
+NE4,Konawe,"VDNI / OSS, Morosi",c10_r20,ring,2022,327.6156617,35.73599933,286.1098039,1278.443137
+NE4,Konawe,"VDNI / OSS, Morosi",c10_r20,rest_of_host,2022,1468.376778,0,1600.870588,21418.58824
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r30,core,2022,4302.599372,3620.845393,313,361.2313725
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r30,ring,2022,1406.23534,345.5240922,1083.403922,3570.062745
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r30,rest_of_host,2022,1110.79788,0,1141.552941,19833.38824
+NS1,Kolaka,Antam Pomalaa smelter,c3_r20,core,2022,528.5498245,378.2562779,48.84705882,48.84705882
+NS1,Kolaka,Antam Pomalaa smelter,c3_r20,ring,2022,1290.587719,295.4010147,725.6823529,3371.184314
+NS1,Kolaka,Antam Pomalaa smelter,c3_r20,rest_of_host,2022,604.2907987,0.440910683,787.2823529,11011.99216
+NS1,Kolaka,Antam Pomalaa smelter,c5_r20,core,2022,643.8740449,378.2562779,119.5647059,150.8862745
+NS1,Kolaka,Antam Pomalaa smelter,c5_r20,ring,2022,1175.271192,295.4010147,654.9529412,3269.090196
+NS1,Kolaka,Antam Pomalaa smelter,c5_r20,rest_of_host,2022,604.2907987,0.440910683,787.2823529,11011.99216
+NS1,Kolaka,Antam Pomalaa smelter,c10_r20,core,2022,837.6134329,378.2562779,322.5215686,706.1490196
+NS1,Kolaka,Antam Pomalaa smelter,c10_r20,ring,2022,981.5355441,295.4010147,451.9882353,2713.772549
+NS1,Kolaka,Antam Pomalaa smelter,c10_r20,rest_of_host,2022,604.2907987,0.440910683,787.2823529,11011.99216
+NS1,Kolaka,Antam Pomalaa smelter,c5_r30,core,2022,643.8740449,378.2562779,119.5647059,150.8862745
+NS1,Kolaka,Antam Pomalaa smelter,c5_r30,ring,2022,1322.71642,295.4010147,857.0313725,6505.756863
+NS1,Kolaka,Antam Pomalaa smelter,c5_r30,rest_of_host,2022,456.8329161,0.440910683,585.1921569,7775.4
+NS2,Luwu Timur,"PT Vale, Sorowako",c3_r20,core,2022,465.2338959,53.72485352,116.4235294,130.4941176
+NS2,Luwu Timur,"PT Vale, Sorowako",c3_r20,ring,2022,8727.701023,6767.166101,899.1019608,5074.098039
+NS2,Luwu Timur,"PT Vale, Sorowako",c3_r20,rest_of_host,2022,900.2830644,66.90204811,641.6941176,26220.6549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r20,core,2022,811.4209924,60.73806859,242.1372549,364.172549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r20,ring,2022,8381.365773,6760.152886,773.3647059,4840.341176
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r20,rest_of_host,2022,900.2830644,66.90204811,641.6941176,26220.6549
+NS2,Luwu Timur,"PT Vale, Sorowako",c10_r20,core,2022,8467.076773,6820.890955,582.6470588,1461.776471
+NS2,Luwu Timur,"PT Vale, Sorowako",c10_r20,ring,2022,725.8061722,0,432.8745098,3742.654902
+NS2,Luwu Timur,"PT Vale, Sorowako",c10_r20,rest_of_host,2022,900.2830644,66.90204811,641.6941176,26220.6549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r30,core,2022,811.4209924,60.73806859,242.1372549,364.172549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r30,ring,2022,8585.01541,6760.152886,943.7019608,9586.568627
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r30,rest_of_host,2022,696.5664743,66.90204811,471.3333333,21474.22353
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c3_r20,core,2022,46.19646599,0,44.71372549,64.1254902
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c3_r20,ring,2022,352.6959398,57.60560187,221.7764706,3244.984314
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c3_r20,rest_of_host,2022,531.9759611,35.37951374,570.1058824,26957.23137
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r20,core,2022,176.0645781,57.60560187,89.26666667,128.3215686
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r20,ring,2022,222.8437587,0,177.2235294,3180.792157
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r20,rest_of_host,2022,531.9759611,35.37951374,570.1058824,26957.23137
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c10_r20,core,2022,250.6527077,57.60560187,150.2196078,528.1176471
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c10_r20,ring,2022,148.276821,0,116.2862745,2780.909804
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c10_r20,rest_of_host,2022,531.9759611,35.37951374,570.1058824,26957.23137
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r30,core,2022,176.0645781,57.60560187,89.26666667,128.3215686
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r30,ring,2022,254.316198,0,223.8509804,8532.345098
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r30,rest_of_host,2022,500.4872675,35.37951374,523.4470588,21605.52941
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c3_r20,core,2022,490.0462546,214.3583622,99.4627451,117.0901961
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c3_r20,ring,2022,222.3754948,0,194.3607843,3509.541176
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c3_r20,rest_of_host,2022,87.40453881,0,112.5098039,38271.27843
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r20,core,2022,528.8297196,214.3583622,127.7098039,283.3137255
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r20,ring,2022,183.6247175,0,166.1372549,3343.278431
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r20,rest_of_host,2022,87.40453881,0,112.5098039,38271.27843
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c10_r20,core,2022,564.7293688,214.3583622,168.3882353,941.1686275
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c10_r20,ring,2022,147.702012,0,125.4313725,2685.337255
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c10_r20,rest_of_host,2022,87.40453881,0,112.5098039,38271.27843
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r30,core,2022,528.8297196,214.3583622,127.7098039,283.3137255
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r30,ring,2022,206.485131,0,189.654902,8410.729412
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r30,rest_of_host,2022,64.54983419,0,89,33203.57647
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c3_r20,core,2022,416.9991505,293.536541,82.0745098,113.6823529
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c3_r20,ring,2022,1079.782211,74.46031557,965.2509804,1533.878431
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c3_r20,rest_of_host,2022,63.97326832,0,80.1254902,231.3607843
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r20,core,2022,539.6738161,293.536541,180.5098039,260.9764706
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r20,ring,2022,957.1055606,74.46031557,866.8078431,1386.564706
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r20,rest_of_host,2022,63.97326832,0,80.1254902,231.3607843
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c10_r20,core,2022,774.8075698,293.536541,423.8980392,632.8784314
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c10_r20,ring,2022,721.9557289,74.46031557,623.3960784,1014.639216
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c10_r20,rest_of_host,2022,63.97326832,0,80.1254902,231.3607843
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r30,core,2022,539.6738161,293.536541,180.5098039,260.9764706
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r30,ring,2022,1021.145795,74.46031557,947.0078431,1618.07451
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r30,rest_of_host,2022,0,0,0,0
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c3_r20,core,2022,35.77867857,0,30.84705882,119.8745098
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c3_r20,ring,2022,132.7200863,0,130.3960784,3168.933333
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c3_r20,rest_of_host,2022,339.8367823,0,268.7960784,10292.95294
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r20,core,2022,50.02553849,0,45.43921569,288.3019608
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r20,ring,2022,118.4661324,0,115.7960784,3000.47451
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r20,rest_of_host,2022,339.8367823,0,268.7960784,10292.95294
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c10_r20,core,2022,115.598983,0,104.2431373,1037.839216
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c10_r20,ring,2022,52.9082517,0,57.00784314,2250.85098
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c10_r20,rest_of_host,2022,339.8367823,0,268.7960784,10292.95294
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r30,core,2022,50.02553849,0,45.43921569,288.3019608
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r30,ring,2022,214.6672751,0,197.6862745,6314.988235
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r30,rest_of_host,2022,243.6237916,0,186.8941176,6978.415686
+NE1,Morowali,"IMIP, Bahodopi",c3_r20,core,2023,3127.414266,2970.347192,116.6705882,116.6705882
+NE1,Morowali,"IMIP, Bahodopi",c3_r20,ring,2023,7768.311508,5944.307786,782.9686275,2922.407843
+NE1,Morowali,"IMIP, Bahodopi",c3_r20,rest_of_host,2023,2183.133403,719.7066233,956.372549,16333.67843
+NE1,Morowali,"IMIP, Bahodopi",c5_r20,core,2023,6589.470189,6012.732671,272.8,272.9254902
+NE1,Morowali,"IMIP, Bahodopi",c5_r20,ring,2023,4305.593505,2901.331943,626.7921569,2766.101961
+NE1,Morowali,"IMIP, Bahodopi",c5_r20,rest_of_host,2023,2183.133403,719.7066233,956.372549,16333.67843
+NE1,Morowali,"IMIP, Bahodopi",c10_r20,core,2023,10254.53527,8787.734499,622.2941176,785.1568627
+NE1,Morowali,"IMIP, Bahodopi",c10_r20,ring,2023,642.6619288,128.3422451,277.3372549,2253.823529
+NE1,Morowali,"IMIP, Bahodopi",c10_r20,rest_of_host,2023,2183.133403,719.7066233,956.372549,16333.67843
+NE1,Morowali,"IMIP, Bahodopi",c5_r30,core,2023,6589.470189,6012.732671,272.8,272.9254902
+NE1,Morowali,"IMIP, Bahodopi",c5_r30,ring,2023,4834.694491,2967.460661,933.0941176,5252.176471
+NE1,Morowali,"IMIP, Bahodopi",c5_r30,rest_of_host,2023,1654.048251,653.5779048,650.0745098,13847.59216
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c3_r20,core,2023,1002.720933,879.0025954,68.78431373,68.95294118
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c3_r20,ring,2023,3776.448734,2193.824823,780.7607843,3270.819608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c3_r20,rest_of_host,2023,369.7111425,0,339.1960784,7256.619608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r20,core,2023,1534.041446,1286.251377,142.8235294,183.027451
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r20,ring,2023,3244.784842,1786.241304,706.7058824,3156.67451
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r20,rest_of_host,2023,369.7111425,0,339.1960784,7256.619608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c10_r20,core,2023,3590.341024,2815.524908,360.8745098,773.8196078
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c10_r20,ring,2023,1188.779944,257.3274418,488.6509804,2565.823529
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c10_r20,rest_of_host,2023,369.7111425,0,339.1960784,7256.619608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r30,core,2023,1534.041446,1286.251377,142.8235294,183.027451
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r30,ring,2023,3403.28636,1786.241304,808.3019608,5372.094118
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r30,rest_of_host,2023,211.2110836,0,237.6,5041.321569
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c3_r20,core,2023,6737.036445,6656.957489,97.87843137,97.87843137
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c3_r20,ring,2023,2313.558938,1192.763111,490.745098,2720.627451
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c3_r20,rest_of_host,2023,644.6094454,0,578.5098039,35337.2902
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r20,core,2023,8118.191576,7499.998048,243.7490196,247.4156863
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r20,ring,2023,932.472456,350.0148284,344.8431373,2571.047059
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r20,rest_of_host,2023,644.6094454,0,578.5098039,35337.2902
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c10_r20,core,2023,8588.060309,7500.732473,496.8784314,904.1411765
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c10_r20,ring,2023,462.9381989,349.3236046,91.76470588,1914.25098
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c10_r20,rest_of_host,2023,644.6094454,0,578.5098039,35337.2902
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r30,core,2023,8118.191576,7499.998048,243.7490196,247.4156863
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r30,ring,2023,938.4174669,350.0148284,354.9490196,4791.658824
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r30,rest_of_host,2023,638.6644346,0,568.4039216,33116.72549
+NE4,Konawe,"VDNI / OSS, Morosi",c3_r20,core,2023,905.4632816,609.8340184,124.1098039,130.7058824
+NE4,Konawe,"VDNI / OSS, Morosi",c3_r20,ring,2023,3765.237496,2444.8878,883.0196078,2215.427451
+NE4,Konawe,"VDNI / OSS, Morosi",c3_r20,rest_of_host,2023,2141.339843,107.1050243,1758.878431,21418.58824
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r20,core,2023,3373.56334,2703.597711,311.4352941,361.2313725
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r20,ring,2023,1295.636041,349.4886493,695.7098039,1984.886275
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r20,rest_of_host,2023,2141.339843,107.1050243,1758.878431,21418.58824
+NE4,Konawe,"VDNI / OSS, Morosi",c10_r20,core,2023,4257.785147,3023.574453,688.6313725,1067.639216
+NE4,Konawe,"VDNI / OSS, Morosi",c10_r20,ring,2023,412.9085474,31.09751259,318.4980392,1278.443137
+NE4,Konawe,"VDNI / OSS, Morosi",c10_r20,rest_of_host,2023,2141.339843,107.1050243,1758.878431,21418.58824
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r30,core,2023,3373.56334,2703.597711,311.4352941,361.2313725
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r30,ring,2023,1697.234751,349.4886493,1173.878431,3570.062745
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r30,rest_of_host,2023,1739.761879,107.1050243,1280.733333,19833.38824
+NS1,Kolaka,Antam Pomalaa smelter,c3_r20,core,2023,429.2772394,256.6272073,48.84705882,48.84705882
+NS1,Kolaka,Antam Pomalaa smelter,c3_r20,ring,2023,1653.123726,398.484898,837.9921569,3371.184314
+NS1,Kolaka,Antam Pomalaa smelter,c3_r20,rest_of_host,2023,976.8449274,0,1022.019608,11011.99216
+NS1,Kolaka,Antam Pomalaa smelter,c5_r20,core,2023,577.402517,256.6272073,127.5333333,150.8862745
+NS1,Kolaka,Antam Pomalaa smelter,c5_r20,ring,2023,1504.989821,398.484898,759.2862745,3269.090196
+NS1,Kolaka,Antam Pomalaa smelter,c5_r20,rest_of_host,2023,976.8449274,0,1022.019608,11011.99216
+NS1,Kolaka,Antam Pomalaa smelter,c10_r20,core,2023,853.2867953,256.6272073,369.7372549,706.1490196
+NS1,Kolaka,Antam Pomalaa smelter,c10_r20,ring,2023,1229.122044,398.484898,517.0823529,2713.772549
+NS1,Kolaka,Antam Pomalaa smelter,c10_r20,rest_of_host,2023,976.8449274,0,1022.019608,11011.99216
+NS1,Kolaka,Antam Pomalaa smelter,c5_r30,core,2023,577.402517,256.6272073,127.5333333,150.8862745
+NS1,Kolaka,Antam Pomalaa smelter,c5_r30,ring,2023,1708.863615,398.484898,1008.72549,6505.756863
+NS1,Kolaka,Antam Pomalaa smelter,c5_r30,rest_of_host,2023,772.9567172,0,772.5647059,7775.4
+NS2,Luwu Timur,"PT Vale, Sorowako",c3_r20,core,2023,582.9500859,244.0476513,111.1803922,130.4941176
+NS2,Luwu Timur,"PT Vale, Sorowako",c3_r20,ring,2023,13104.34151,11214.93355,807.7843137,5074.098039
+NS2,Luwu Timur,"PT Vale, Sorowako",c3_r20,rest_of_host,2023,928.1190595,68.29088402,598.0431373,26220.6549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r20,core,2023,976.6056287,277.7957639,229.4627451,364.172549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r20,ring,2023,12710.49119,11181.03447,689.4862745,4840.341176
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r20,rest_of_host,2023,928.1190595,68.29088402,598.0431373,26220.6549
+NS2,Luwu Timur,"PT Vale, Sorowako",c10_r20,core,2023,12768.54832,11411.76602,499.9098039,1461.776471
+NS2,Luwu Timur,"PT Vale, Sorowako",c10_r20,ring,2023,918.6078861,47.07350996,419.0627451,3742.654902
+NS2,Luwu Timur,"PT Vale, Sorowako",c10_r20,rest_of_host,2023,928.1190595,68.29088402,598.0431373,26220.6549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r30,core,2023,976.6056287,277.7957639,229.4627451,364.172549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r30,ring,2023,12911.53439,11181.03447,820.827451,9586.568627
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r30,rest_of_host,2023,727.016349,68.29088402,466.6901961,21474.22353
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c3_r20,core,2023,100.2898971,0.090281505,54.67843137,64.1254902
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c3_r20,ring,2023,591.735196,102.756568,300.1019608,3244.984314
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c3_r20,rest_of_host,2023,867.6605682,119.5166121,810.8313725,26957.23137
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r20,core,2023,255.4201906,66.92330465,103.2862745,128.3215686
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r20,ring,2023,436.6545372,35.92354488,251.4941176,3180.792157
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r20,rest_of_host,2023,867.6605682,119.5166121,810.8313725,26957.23137
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c10_r20,core,2023,354.3784691,66.92330465,183.5921569,528.1176471
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c10_r20,ring,2023,337.7218979,35.92354488,171.2078431,2780.909804
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c10_r20,rest_of_host,2023,867.6605682,119.5166121,810.8313725,26957.23137
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r30,core,2023,255.4201906,66.92330465,103.2862745,128.3215686
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r30,ring,2023,584.509695,35.92354488,405.7843137,8532.345098
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r30,rest_of_host,2023,719.7651853,119.5166121,656.4823529,21605.52941
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c3_r20,core,2023,1221.569247,878.896966,115.9490196,117.0901961
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c3_r20,ring,2023,340.2499803,0,245.0313725,3509.541176
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c3_r20,rest_of_host,2023,90.29438744,0,109,38271.27843
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r20,core,2023,1336.100275,878.896966,180.9333333,283.3137255
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r20,ring,2023,225.8590263,0,180.1176471,3343.278431
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r20,rest_of_host,2023,90.29438744,0,109,38271.27843
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c10_r20,core,2023,1404.994044,878.896966,239.1254902,941.1686275
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c10_r20,ring,2023,156.9330365,0,121.8941176,2685.337255
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c10_r20,rest_of_host,2023,90.29438744,0,109,38271.27843
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r30,core,2023,1336.100275,878.896966,180.9333333,283.3137255
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r30,ring,2023,258.0769459,0,209.1176471,8410.729412
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r30,rest_of_host,2023,58.07646785,0,80,33203.57647
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c3_r20,core,2023,660.9749975,469.3714161,97.17647059,113.6823529
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c3_r20,ring,2023,1313.571979,84.00653921,1055.058824,1533.878431
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c3_r20,rest_of_host,2023,67.06238616,0,79.39215686,231.3607843
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r20,core,2023,845.6808657,469.3714161,221.3921569,260.9764706
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r20,ring,2023,1128.876313,84.00653921,930.8313725,1386.564706
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r20,rest_of_host,2023,67.06238616,0,79.39215686,231.3607843
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c10_r20,core,2023,1134.619949,469.3714161,489.3411765,632.8784314
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c10_r20,ring,2023,839.9252773,84.00653921,662.8588235,1014.639216
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c10_r20,rest_of_host,2023,67.06238616,0,79.39215686,231.3607843
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r30,core,2023,845.6808657,469.3714161,221.3921569,260.9764706
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r30,ring,2023,1196.015443,84.00653921,1010.313725,1618.07451
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r30,rest_of_host,2023,0,0,0,0
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c3_r20,core,2023,73.00383341,0,50.1372549,119.8745098
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c3_r20,ring,2023,150.5983941,0,129.1137255,3168.933333
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c3_r20,rest_of_host,2023,458.7654869,10.78770256,298.7960784,10292.95294
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r20,core,2023,88.96465789,0,65.70980392,288.3019608
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r20,ring,2023,134.63665,0,113.5372549,3000.47451
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r20,rest_of_host,2023,458.7654869,10.78770256,298.7960784,10292.95294
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c10_r20,core,2023,161.0622621,0,120.254902,1037.839216
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c10_r20,ring,2023,62.55513623,0,59.00784314,2250.85098
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c10_r20,rest_of_host,2023,458.7654869,10.78770256,298.7960784,10292.95294
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r30,core,2023,88.96465789,0,65.70980392,288.3019608
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r30,ring,2023,272.7040454,0,214.9215686,6314.988235
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r30,rest_of_host,2023,320.6791192,10.78770256,197.4,6978.415686
+NE1,Morowali,"IMIP, Bahodopi",c3_r20,core,2024,3722.319968,3622.236748,116.6705882,116.6705882
+NE1,Morowali,"IMIP, Bahodopi",c3_r20,ring,2024,12342.57515,10149.68989,893.6588235,2922.407843
+NE1,Morowali,"IMIP, Bahodopi",c3_r20,rest_of_host,2024,2427.808211,807.681834,1109.745098,16333.67843
+NE1,Morowali,"IMIP, Bahodopi",c5_r20,core,2024,9617.988831,9054.085654,272.5568627,272.9254902
+NE1,Morowali,"IMIP, Bahodopi",c5_r20,ring,2024,6443.05808,4714.100461,737.7254902,2766.101961
+NE1,Morowali,"IMIP, Bahodopi",c5_r20,rest_of_host,2024,2427.808211,807.681834,1109.745098,16333.67843
+NE1,Morowali,"IMIP, Bahodopi",c10_r20,core,2024,15046.05063,13498.9734,632.1411765,785.1568627
+NE1,Morowali,"IMIP, Bahodopi",c10_r20,ring,2024,1020.510428,274.6264677,378.1490196,2253.823529
+NE1,Morowali,"IMIP, Bahodopi",c10_r20,rest_of_host,2024,2427.808211,807.681834,1109.745098,16333.67843
+NE1,Morowali,"IMIP, Bahodopi",c5_r30,core,2024,9617.988831,9054.085654,272.5568627,272.9254902
+NE1,Morowali,"IMIP, Bahodopi",c5_r30,ring,2024,7037.947972,4805.322763,1102.27451,5252.176471
+NE1,Morowali,"IMIP, Bahodopi",c5_r30,rest_of_host,2024,1832.964964,716.4595318,745.2078431,13847.59216
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c3_r20,core,2024,937.0232047,819.3044815,68.95294118,68.95294118
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c3_r20,ring,2024,5405.001825,3274.669526,1026.168627,3270.819608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c3_r20,rest_of_host,2024,371.348596,0,347.7098039,7256.619608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r20,core,2024,1650.258818,1424.19923,147.6588235,183.027451
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r20,ring,2024,4691.385627,2669.400178,947.4470588,3156.67451
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r20,rest_of_host,2024,371.348596,0,347.7098039,7256.619608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c10_r20,core,2024,4344.733219,3451.632235,400.4823529,773.8196078
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c10_r20,ring,2024,1997.329809,642.4855171,694.6156863,2565.823529
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c10_r20,rest_of_host,2024,371.348596,0,347.7098039,7256.619608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r30,core,2024,1650.258818,1424.19923,147.6588235,183.027451
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r30,ring,2024,4853.63451,2669.400178,1055.756863,5372.094118
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r30,rest_of_host,2024,209.1042217,0,239.4039216,5041.321569
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c3_r20,core,2024,5401.819056,5297.103487,97.87843137,97.87843137
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c3_r20,ring,2024,2462.887782,1395.172872,489.6117647,2720.627451
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c3_r20,rest_of_host,2024,636.8985243,0,548.172549,35337.2902
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r20,core,2024,6811.219065,6224.073458,246.6823529,247.4156863
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r20,ring,2024,1053.551316,468.3624366,340.7647059,2571.047059
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r20,rest_of_host,2024,636.8985243,0,548.172549,35337.2902
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c10_r20,core,2024,7284.154027,6243.819732,502.9137255,904.1411765
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c10_r20,ring,2024,580.9050349,448.6584281,84.6,1914.25098
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c10_r20,rest_of_host,2024,636.8985243,0,548.172549,35337.2902
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r30,core,2024,6811.219065,6224.073458,246.6823529,247.4156863
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r30,ring,2024,1053.551316,468.3624366,340.7647059,4791.658824
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r30,rest_of_host,2024,636.8985243,0,548.172549,33116.72549
+NE4,Konawe,"VDNI / OSS, Morosi",c3_r20,core,2024,584.7325327,317.0553309,116.2509804,130.7058824
+NE4,Konawe,"VDNI / OSS, Morosi",c3_r20,ring,2024,2689.978586,1585.183213,846.3607843,2215.427451
+NE4,Konawe,"VDNI / OSS, Morosi",c3_r20,rest_of_host,2024,2522.515,347.3152246,1870.815686,21418.58824
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r20,core,2024,2203.921409,1644.192982,297.7490196,361.2313725
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r20,ring,2024,1069.649749,256.8361328,664.8705882,1984.886275
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r20,rest_of_host,2024,2522.515,347.3152246,1870.815686,21418.58824
+NE4,Konawe,"VDNI / OSS, Morosi",c10_r20,core,2024,2898.885244,1882.227047,662.6313725,1067.639216
+NE4,Konawe,"VDNI / OSS, Morosi",c10_r20,ring,2024,375.7797838,19.96772772,299.972549,1278.443137
+NE4,Konawe,"VDNI / OSS, Morosi",c10_r20,rest_of_host,2024,2522.515,347.3152246,1870.815686,21418.58824
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r30,core,2024,2203.921409,1644.192982,297.7490196,361.2313725
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r30,ring,2024,1472.671207,256.8361328,1141.94902,3570.062745
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r30,rest_of_host,2024,2119.50172,347.3152246,1393.74902,19833.38824
+NS1,Kolaka,Antam Pomalaa smelter,c3_r20,core,2024,447.0410263,313.3997493,48.84705882,48.84705882
+NS1,Kolaka,Antam Pomalaa smelter,c3_r20,ring,2024,1730.919744,469.463192,877.7294118,3371.184314
+NS1,Kolaka,Antam Pomalaa smelter,c3_r20,rest_of_host,2024,1097.514091,0,1133.309804,11011.99216
+NS1,Kolaka,Antam Pomalaa smelter,c5_r20,core,2024,579.3695711,313.3997493,121.8627451,150.8862745
+NS1,Kolaka,Antam Pomalaa smelter,c5_r20,ring,2024,1598.586953,469.463192,804.7058824,3269.090196
+NS1,Kolaka,Antam Pomalaa smelter,c5_r20,rest_of_host,2024,1097.514091,0,1133.309804,11011.99216
+NS1,Kolaka,Antam Pomalaa smelter,c10_r20,core,2024,888.3046729,313.3997493,367.5803922,706.1490196
+NS1,Kolaka,Antam Pomalaa smelter,c10_r20,ring,2024,1289.644059,469.463192,558.9764706,2713.772549
+NS1,Kolaka,Antam Pomalaa smelter,c10_r20,rest_of_host,2024,1097.514091,0,1133.309804,11011.99216
+NS1,Kolaka,Antam Pomalaa smelter,c5_r30,core,2024,579.3695711,313.3997493,121.8627451,150.8862745
+NS1,Kolaka,Antam Pomalaa smelter,c5_r30,ring,2024,1828.83369,469.463192,1081.105882,6505.756863
+NS1,Kolaka,Antam Pomalaa smelter,c5_r30,rest_of_host,2024,867.2465513,0,856.8862745,7775.4
+NS2,Luwu Timur,"PT Vale, Sorowako",c3_r20,core,2024,635.3666383,306.6095514,111.5529412,130.4941176
+NS2,Luwu Timur,"PT Vale, Sorowako",c3_r20,ring,2024,18513.95356,16472.94518,934.9137255,5074.098039
+NS2,Luwu Timur,"PT Vale, Sorowako",c3_r20,rest_of_host,2024,1229.568663,54.91013432,860.4,26220.6549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r20,core,2024,1102.908171,362.5530915,239.4745098,364.172549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r20,ring,2024,18046.22218,16416.81818,806.9647059,4840.341176
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r20,rest_of_host,2024,1229.568663,54.91013432,860.4,26220.6549
+NS2,Luwu Timur,"PT Vale, Sorowako",c10_r20,core,2024,18268.39707,16706.94658,558.5137255,1461.776471
+NS2,Luwu Timur,"PT Vale, Sorowako",c10_r20,ring,2024,880.9855202,72.60815334,487.9529412,3742.654902
+NS2,Luwu Timur,"PT Vale, Sorowako",c10_r20,rest_of_host,2024,1229.568663,54.91013432,860.4,26220.6549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r30,core,2024,1102.908171,362.5530915,239.4745098,364.172549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r30,ring,2024,18282.53285,16416.81818,959.9254902,9586.568627
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r30,rest_of_host,2024,993.1883847,54.91013432,707.4313725,21474.22353
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c3_r20,core,2024,76.23466391,0,42.79215686,64.1254902
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c3_r20,ring,2024,505.5667701,57.04227829,256.372549,3244.984314
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c3_r20,rest_of_host,2024,1015.538425,156.7231054,899.9098039,26957.23137
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r20,core,2024,193.9385254,10.48570919,87.69019608,128.3215686
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r20,ring,2024,387.8857463,46.5565691,211.4745098,3180.792157
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r20,rest_of_host,2024,1015.538425,156.7231054,899.9098039,26957.23137
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c10_r20,core,2024,299.7992802,10.48570919,169.4666667,528.1176471
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c10_r20,ring,2024,282.0551847,46.5565691,129.7176471,2780.909804
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c10_r20,rest_of_host,2024,1015.538425,156.7231054,899.9098039,26957.23137
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r30,core,2024,193.9385254,10.48570919,87.69019608,128.3215686
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r30,ring,2024,732.8255776,107.6278305,449.3568627,8532.345098
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r30,rest_of_host,2024,670.5378295,95.65184402,661.9490196,21605.52941
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c3_r20,core,2024,1329.130986,964.4136049,117.0235294,117.0901961
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c3_r20,ring,2024,507.5560124,7.302711352,321.0078431,3509.541176
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c3_r20,rest_of_host,2024,117.5597957,0,151.6117647,38271.27843
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r20,core,2024,1535.863892,971.7163162,202.7137255,283.3137255
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r20,ring,2024,301.0385242,0,235.3803922,3343.278431
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r20,rest_of_host,2024,117.5597957,0,151.6117647,38271.27843
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c10_r20,core,2024,1657.499233,971.7163162,297.9686275,941.1686275
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c10_r20,ring,2024,179.3967644,0,140.1176471,2685.337255
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c10_r20,rest_of_host,2024,117.5597957,0,151.6117647,38271.27843
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r30,core,2024,1535.863892,971.7163162,202.7137255,283.3137255
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r30,ring,2024,317.4675397,0,250.9921569,8410.729412
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r30,rest_of_host,2024,101.1307802,0,136,33203.57647
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c3_r20,core,2024,601.5955573,427.065917,93.78431373,113.6823529
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c3_r20,ring,2024,1277.195624,93.02976903,1046.223529,1533.878431
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c3_r20,rest_of_host,2024,61.66634528,0,76.93333333,231.3607843
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r20,core,2024,776.213536,427.065917,207.9411765,260.9764706
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r20,ring,2024,1102.592588,93.02976903,932.0666667,1386.564706
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r20,rest_of_host,2024,61.66634528,0,76.93333333,231.3607843
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c10_r20,core,2024,1070.038864,427.065917,485.5333333,632.8784314
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c10_r20,ring,2024,808.7642064,93.02976903,654.4588235,1014.639216
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c10_r20,rest_of_host,2024,61.66634528,0,76.93333333,231.3607843
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r30,core,2024,776.213536,427.065917,207.9411765,260.9764706
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r30,ring,2024,1164.323436,93.02976903,1009.082353,1618.07451
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r30,rest_of_host,2024,0,0,0,0
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c3_r20,core,2024,130.4717137,0,65.20784314,119.8745098
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c3_r20,ring,2024,101.6639813,0,88.83137255,3168.933333
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c3_r20,rest_of_host,2024,524.6144287,0,359.1294118,10292.95294
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r20,core,2024,138.6176561,0,72.76470588,288.3019608
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r20,ring,2024,93.53893948,0,81.28627451,3000.47451
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r20,rest_of_host,2024,524.6144287,0,359.1294118,10292.95294
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c10_r20,core,2024,181.1120792,0,106.0470588,1037.839216
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c10_r20,ring,2024,51.04912919,0,48.00784314,2250.85098
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c10_r20,rest_of_host,2024,524.6144287,0,359.1294118,10292.95294
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r30,core,2024,138.6176561,0,72.76470588,288.3019608
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r30,ring,2024,261.5653604,0,220.8470588,6314.988235
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r30,rest_of_host,2024,356.5593944,0,219.545098,6978.415686
+NE1,Morowali,"IMIP, Bahodopi",c3_r20,core,2025,4715.020196,4712.295344,116.6705882,116.6705882
+NE1,Morowali,"IMIP, Bahodopi",c3_r20,ring,2025,11353.84877,8515.979779,1185.937255,2922.407843
+NE1,Morowali,"IMIP, Bahodopi",c3_r20,rest_of_host,2025,3390.922081,930.8161186,1496.678431,16333.67843
+NE1,Morowali,"IMIP, Bahodopi",c5_r20,core,2025,11760.16109,11518.31493,272.9254902,272.9254902
+NE1,Morowali,"IMIP, Bahodopi",c5_r20,ring,2025,4308.852159,1710.386961,1029.631373,2766.101961
+NE1,Morowali,"IMIP, Bahodopi",c5_r20,rest_of_host,2025,3390.922081,930.8161186,1496.678431,16333.67843
+NE1,Morowali,"IMIP, Bahodopi",c10_r20,core,2025,14471.27208,12958.19495,689.2588235,785.1568627
+NE1,Morowali,"IMIP, Bahodopi",c10_r20,ring,2025,1600.149141,272.6718216,613.3254902,2253.823529
+NE1,Morowali,"IMIP, Bahodopi",c10_r20,rest_of_host,2025,3390.922081,930.8161186,1496.678431,16333.67843
+NE1,Morowali,"IMIP, Bahodopi",c5_r30,core,2025,11760.16109,11518.31493,272.9254902,272.9254902
+NE1,Morowali,"IMIP, Bahodopi",c5_r30,ring,2025,5066.605091,1745.907153,1499.247059,5252.176471
+NE1,Morowali,"IMIP, Bahodopi",c5_r30,rest_of_host,2025,2633.237049,895.2959268,1027.101961,13847.59216
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c3_r20,core,2025,1177.095813,1044.952153,68.95294118,68.95294118
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c3_r20,ring,2025,7015.524691,4724.991023,1146.458824,3270.819608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c3_r20,rest_of_host,2025,466.5453355,21.97111225,388.2823529,7256.619608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r20,core,2025,2294.617113,2022.719078,164.2,183.027451
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r20,ring,2025,5897.45908,3746.681148,1051.184314,3156.67451
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r20,rest_of_host,2025,466.5453355,21.97111225,388.2823529,7256.619608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c10_r20,core,2025,5396.892876,4410.990736,450.7372549,773.8196078
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c10_r20,ring,2025,2795.954221,1359.323284,764.6431373,2565.823529
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c10_r20,rest_of_host,2025,466.5453355,21.97111225,388.2823529,7256.619608
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r30,core,2025,2294.617113,2022.719078,164.2,183.027451
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r30,ring,2025,6129.815855,3768.652261,1172.807843,5372.094118
+NE2,Halmahera Tengah,"IWIP, Weda Bay (Lelilef)",c5_r30,rest_of_host,2025,234.2077819,0,266.6784314,5041.321569
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c3_r20,core,2025,6358.159335,6248.961602,97.87843137,97.87843137
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c3_r20,ring,2025,2076.184429,1005.667347,490.7490196,2720.627451
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c3_r20,rest_of_host,2025,939.6489932,0,792.0156863,35337.2902
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r20,core,2025,7784.638776,7176.858329,247.4156863,247.4156863
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r20,ring,2025,649.733947,77.98667369,341.1686275,2571.047059
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r20,rest_of_host,2025,939.6489932,0,792.0156863,35337.2902
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c10_r20,core,2025,8257.837485,7187.164623,519.8078431,904.1411765
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c10_r20,ring,2025,176.871794,67.72122178,68.83921569,1914.25098
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c10_r20,rest_of_host,2025,939.6489932,0,792.0156863,35337.2902
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r30,core,2025,7784.638776,7176.858329,247.4156863,247.4156863
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r30,ring,2025,674.2310305,77.98667369,383.0196078,4791.658824
+NE3,Halmahera Selatan,"Harita Nickel, Kawasi (Obi)",c5_r30,rest_of_host,2025,915.1519098,0,750.1647059,33116.72549
+NE4,Konawe,"VDNI / OSS, Morosi",c3_r20,core,2025,680.3801456,391.0831357,116.7882353,130.7058824
+NE4,Konawe,"VDNI / OSS, Morosi",c3_r20,ring,2025,2688.797086,1561.765628,847.5803922,2215.427451
+NE4,Konawe,"VDNI / OSS, Morosi",c3_r20,rest_of_host,2025,3285.521526,387.2589893,2354.133333,21418.58824
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r20,core,2025,2328.672049,1715.498165,298.0431373,361.2313725
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r20,ring,2025,1039.648132,236.3786627,666.3372549,1984.886275
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r20,rest_of_host,2025,3285.521526,387.2589893,2354.133333,21418.58824
+NE4,Konawe,"VDNI / OSS, Morosi",c10_r20,core,2025,2964.359371,1917.995442,650.8862745,1067.639216
+NE4,Konawe,"VDNI / OSS, Morosi",c10_r20,ring,2025,404.7585667,34.76680809,313.4745098,1278.443137
+NE4,Konawe,"VDNI / OSS, Morosi",c10_r20,rest_of_host,2025,3285.521526,387.2589893,2354.133333,21418.58824
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r30,core,2025,2328.672049,1715.498165,298.0431373,361.2313725
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r30,ring,2025,1528.458728,236.3786627,1238.682353,3570.062745
+NE4,Konawe,"VDNI / OSS, Morosi",c5_r30,rest_of_host,2025,2796.723914,387.2589893,1781.803922,19833.38824
+NS1,Kolaka,Antam Pomalaa smelter,c3_r20,core,2025,593.3127268,459.2143077,48.84705882,48.84705882
+NS1,Kolaka,Antam Pomalaa smelter,c3_r20,ring,2025,2714.587402,707.0991141,1212.92549,3371.184314
+NS1,Kolaka,Antam Pomalaa smelter,c3_r20,rest_of_host,2025,1729.702109,354.1097737,1288.003922,11011.99216
+NS1,Kolaka,Antam Pomalaa smelter,c5_r20,core,2025,770.5916603,461.2529744,131.5176471,150.8862745
+NS1,Kolaka,Antam Pomalaa smelter,c5_r20,ring,2025,2537.312665,705.0604474,1130.243137,3269.090196
+NS1,Kolaka,Antam Pomalaa smelter,c5_r20,rest_of_host,2025,1729.702109,354.1097737,1288.003922,11011.99216
+NS1,Kolaka,Antam Pomalaa smelter,c10_r20,core,2025,1357.65408,461.2529744,504.3843137,706.1490196
+NS1,Kolaka,Antam Pomalaa smelter,c10_r20,ring,2025,1950.18535,705.0604474,757.3294118,2713.772549
+NS1,Kolaka,Antam Pomalaa smelter,c10_r20,rest_of_host,2025,1729.702109,354.1097737,1288.003922,11011.99216
+NS1,Kolaka,Antam Pomalaa smelter,c5_r30,core,2025,770.5916603,461.2529744,131.5176471,150.8862745
+NS1,Kolaka,Antam Pomalaa smelter,c5_r30,ring,2025,2786.36505,705.0604474,1427.843137,6505.756863
+NS1,Kolaka,Antam Pomalaa smelter,c5_r30,rest_of_host,2025,1480.623345,354.1097737,990.3686275,7775.4
+NS2,Luwu Timur,"PT Vale, Sorowako",c3_r20,core,2025,630.4359744,244.9018316,118.4196078,130.4941176
+NS2,Luwu Timur,"PT Vale, Sorowako",c3_r20,ring,2025,7485.495894,5027.734941,1135.760784,5074.098039
+NS2,Luwu Timur,"PT Vale, Sorowako",c3_r20,rest_of_host,2025,1300.528443,16.1099987,919.7764706,26220.6549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r20,core,2025,1118.455782,324.5763012,260.9529412,364.172549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r20,ring,2025,6997.27248,4947.845362,993.2235294,4840.341176
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r20,rest_of_host,2025,1300.528443,16.1099987,919.7764706,26220.6549
+NS2,Luwu Timur,"PT Vale, Sorowako",c10_r20,core,2025,6804.957063,5171.314834,614.7372549,1461.776471
+NS2,Luwu Timur,"PT Vale, Sorowako",c10_r20,ring,2025,1310.825455,101.2154985,639.4470588,3742.654902
+NS2,Luwu Timur,"PT Vale, Sorowako",c10_r20,rest_of_host,2025,1300.528443,16.1099987,919.7764706,26220.6549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r30,core,2025,1118.455782,324.5763012,260.9529412,364.172549
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r30,ring,2025,7278.190835,4947.845362,1178.015686,9586.568627
+NS2,Luwu Timur,"PT Vale, Sorowako",c5_r30,rest_of_host,2025,1019.509001,16.1099987,734.9568627,21474.22353
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c3_r20,core,2025,90.90255308,0.09100653,53.95294118,64.1254902
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c3_r20,ring,2025,621.1544959,68.03701566,308.1686275,3244.984314
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c3_r20,rest_of_host,2025,1703.394854,386.2535076,1223.376471,26957.23137
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r20,core,2025,214.8560418,23.20688152,97.99215686,128.3215686
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r20,ring,2025,497.2299245,44.92114067,264.1333333,3180.792157
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r20,rest_of_host,2025,1703.394854,386.2535076,1223.376471,26957.23137
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c10_r20,core,2025,332.7528733,23.20688152,181.8980392,528.1176471
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c10_r20,ring,2025,379.3593668,44.92114067,180.2431373,2780.909804
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c10_r20,rest_of_host,2025,1703.394854,386.2535076,1223.376471,26957.23137
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r30,core,2025,214.8560418,23.20688152,97.99215686,128.3215686
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r30,ring,2025,1273.642298,258.6769629,669.1098039,8532.345098
+NS3,Halmahera Timur,"Antam FeNi, Tanjung Buli",c5_r30,rest_of_host,2025,926.9218731,172.4976854,818.3176471,21605.52941
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c3_r20,core,2025,1939.332754,1570.226661,117.0901961,117.0901961
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c3_r20,ring,2025,794.5884146,31.76761466,426.0666667,3509.541176
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c3_r20,rest_of_host,2025,187.2367804,0,213.2705882,38271.27843
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r20,core,2025,2258.393324,1602.077135,225.8823529,283.3137255
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r20,ring,2025,475.8119373,0,317.3215686,3343.278431
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r20,rest_of_host,2025,187.2367804,0,213.2705882,38271.27843
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c10_r20,core,2025,2419.442558,1602.077135,341.3568627,941.1686275
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c10_r20,ring,2025,314.7661833,0,201.8352941,2685.337255
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c10_r20,rest_of_host,2025,187.2367804,0,213.2705882,38271.27843
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r30,core,2025,2258.393324,1602.077135,225.8823529,283.3137255
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r30,ring,2025,561.5337125,0,376.6196078,8410.729412
+NS4,Morowali Utara,"GNI, Bunta, Petasia Timur",c5_r30,rest_of_host,2025,101.5974811,0,154,33203.57647
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c3_r20,core,2025,338.5161077,161.3191013,92.45098039,113.6823529
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c3_r20,ring,2025,1442.324203,152.7775947,1099.941176,1533.878431
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c3_r20,rest_of_host,2025,86.5132267,0,88.51764706,231.3607843
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r20,core,2025,521.1254016,161.3191013,220.4156863,260.9764706
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r20,ring,2025,1259.715214,152.7775947,971.9686275,1386.564706
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r20,rest_of_host,2025,86.5132267,0,88.51764706,231.3607843
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c10_r20,core,2025,841.5025585,161.3191013,504.1254902,632.8784314
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c10_r20,ring,2025,939.3311427,152.7775947,688.2431373,1014.639216
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c10_r20,rest_of_host,2025,86.5132267,0,88.51764706,231.3607843
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r30,core,2025,521.1254016,161.3191013,220.4156863,260.9764706
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r30,ring,2025,1346.306971,152.7775947,1060.576471,1618.07451
+NE5,Bantaeng,Huadi / Bantaeng Industrial Park,c5_r30,rest_of_host,2025,0,0,0,0
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c3_r20,core,2025,130.3591626,0,62.15294118,119.8745098
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c3_r20,ring,2025,261.0307932,0,207.2039216,3168.933333
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c3_r20,rest_of_host,2025,1031.883525,11.43611145,616.1882353,10292.95294
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r20,core,2025,178.7140325,0,100.3215686,288.3019608
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r20,ring,2025,212.6702266,0,169.0313725,3000.47451
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r20,rest_of_host,2025,1031.883525,11.43611145,616.1882353,10292.95294
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c10_r20,core,2025,297.8592304,0,187.6392157,1037.839216
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c10_r20,ring,2025,93.56583866,0,81.74117647,2250.85098
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c10_r20,rest_of_host,2025,1031.883525,11.43611145,616.1882353,10292.95294
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r30,core,2025,178.7140325,0,100.3215686,288.3019608
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r30,ring,2025,696.5068706,11.43611145,451.9490196,6314.988235
+NS5,Luwu,"Bumi Mineral Sulawesi, Bua",c5_r30,rest_of_host,2025,547.9864603,0,333.227451,6978.415686
